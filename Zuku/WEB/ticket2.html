@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-bind="http://www.w3.org/1999/xhtml" xmlns:v-on="http://www.w3.org/1999/xhtml"
+      xmlns:background-repeat="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+<div class ="container" id="app">
+
+    <br>
+    <br>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="thumbnail">
+                <img  :src="url">
+                <div class="caption" >
+                    <h4> <span class="glyphicon glyphicon-qrcode"></span> {{ticket_number}}</h4>
+                    <h4><span class="glyphicon  glyphicon-equalizer"></span> {{event_company}}</h4>
+                    <h4><span class="glyphicon glyphicon-tag"></span> {{description}}</h4>
+                    <img height="60xs" src="https://pbs.twimg.com/profile_images/915823441172992000/1w-QFqS1.jpg">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+</div>
+
+</body>
+
+<script src="https://unpkg.com/vue@2.0.3/dist/vue.js"></script>
+<script src="https://unpkg.com/axios@0.12.0/dist/axios.min.js"></script>
+<script src="https://unpkg.com/lodash@4.13.1/lodash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.5/jspdf.debug.js"></script>
+<script src="https://unpkg.com/vue-router"></script>
+
+<script>
+
+    var router = new VueRouter({
+        mode: 'history',
+        routes: []
+    });
+
+    var app = new Vue({
+        router,
+        el: '#app',
+        data: {
+            ticket_number:'',
+            description:'',
+            event_company:'',
+            url:''
+        },
+        methods: {
+            getData: function () {
+                this.url = 'https://chart.googleapis.com/chart?chs=300x300&cht=qr&chl='+this.$route.query.ticket_number+'&choe=UTF-8';
+                var formData = new FormData();
+                formData.append('function', 'ticketDetails');
+                formData.append('ticket_number', this.$route.query.ticket_number);
+                axios.post('https://ticketsoko.nouveta.co.ke/api/index.php',formData)
+                    .then(function (response) {
+                        this.ticket_number= response.data.data.ticket_number;
+                        this.description= response.data.data.description;
+                        this.event_company= response.data.data.event_company;
+                    }.bind(this))
+                    .catch(function (error) {
+
+                    })
+
+            } ,downloadTicket: function () {
+                var formData = new FormData();
+                formData.append('function', 'downloadTicket');
+                formData.append('ticket_number', this.$route.query.ticket_number);
+                axios.post('https://ticketsoko.nouveta.co.ke/api/index.php',formData)
+                    .then(function (response) {
+                        this.ticket_number= response.data.data.ticket_number;
+                        this.description= response.data.data.description;
+                        this.event_company= response.data.data.event_company;
+                    }.bind(this))
+                    .catch(function (error) {
+
+                    })
+
+            }
+
+        },
+        created: function(){
+            this.getData();
+           // this.downloadTicket();
+        }
+
+    })
+</script>
+
+</html>

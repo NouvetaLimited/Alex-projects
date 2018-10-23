@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f77f5b73-4444-4a69-b4a2-1e74e9b46d90" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="1262" column="65" lean-forward="true" selection-start-line="1262" selection-start-column="65" selection-end-line="1262" selection-end-column="65" />
+              <folding>
+                <marker date="1523860364206" expanded="true" signature="637:763" ph="SELECT SUM(a... transactions" />
+                <marker date="1523860364206" expanded="true" signature="983:1067" ph="SELECT day, " />
+                <marker date="1523860364206" expanded="true" signature="1383:1467" ph="SELECT day, " />
+                <marker date="1523860364206" expanded="true" signature="1979:2149" ph="SELECT SUM(a... ticket_sales" />
+                <marker date="1523860364206" expanded="true" signature="2178:2363" ph="SELECT SUM(a... ticket_sales" />
+                <marker date="1523860364206" expanded="true" signature="2394:2579" ph="SELECT SUM(a... ticket_sales" />
+                <marker date="1523860364206" expanded="true" signature="2618:2741" ph="SELECT SUM(a... ticket_sales" />
+                <marker date="1523860364206" expanded="true" signature="2770:2908" ph="SELECT SUM(a... ticket_sales" />
+                <marker date="1523860364206" expanded="true" signature="2939:3077" ph="SELECT SUM(a... ticket_sales" />
+                <marker date="1523860364206" expanded="true" signature="3537:3598" ph="SELECT * FRO... events" />
+                <marker date="1523860364206" expanded="true" signature="7079:7410" ph="INSERT INTO `events`... " />
+                <marker date="1523860364206" expanded="true" signature="8486:8530" ph="DELETE FROM " />
+                <marker date="1523860364206" expanded="true" signature="9178:9258" ph="SELECT * FRO... users" />
+                <marker date="1523860364206" expanded="true" signature="10013:10154" ph="SELECT * FRO... events" />
+                <marker date="1523860364206" expanded="true" signature="10183:10241" ph="SELECT * FRO... events" />
+                <marker date="1523860364206" expanded="true" signature="11162:11243" ph="SELECT * FRO... ticket_sales" />
+                <marker date="1523860364206" expanded="true" signature="11343:11404" ph="SELECT * FRO... tickets" />
+                <marker date="1523860364206" expanded="true" signature="12297:12340" ph="SELECT * FRO... events" />
+                <marker date="1523860364206" expanded="true" signature="13108:13131" ph="SELECT * FRO... options" />
+                <marker date="1523860364206" expanded="true" signature="13189:13229" ph="SELECT * FRO... options" />
+                <marker date="1523860364206" expanded="true" signature="13636:13689" ph="SELECT * FRO... ticket_options" />
+                <marker date="1523860364206" expanded="true" signature="13985:14031" ph="SELECT * FRO... options" />
+                <marker date="1523860364206" expanded="true" signature="14509:14593" ph="SELECT day, " />
+                <marker date="1523860364206" expanded="true" signature="14875:14959" ph="SELECT day, " />
+                <marker date="1523860364206" expanded="true" signature="15245:15413" ph="SELECT SUM(a... ticket_sales" />
+                <marker date="1523860364206" expanded="true" signature="15553:15618" ph="SELECT * FRO... tickets" />
+                <marker date="1523860364206" expanded="true" signature="15816:15891" ph="UPDATE `tick... " />
+                <marker date="1523860364206" expanded="true" signature="15990:16084" ph="SELECT * FRO... tickets" />
+                <marker date="1523860364206" expanded="true" signature="16256:16373" ph="SELECT * FRO... tickets" />
+                <marker date="1523860364206" expanded="true" signature="16545:16662" ph="SELECT * FRO... tickets" />
+                <marker date="1523860364206" expanded="true" signature="16806:16856" ph="SELECT * FRO... merchandize" />
+                <marker date="1523860364206" expanded="true" signature="17177:17331" ph="SELECT * FRO... ticket_sales" />
+                <marker date="1523860364206" expanded="true" signature="17361:17445" ph="SELECT * FRO... ticket_sales" />
+                <marker date="1523860364206" expanded="true" signature="18275:18500" ph="SELECT * FRO... tickets" />
+                <marker date="1523860364206" expanded="true" signature="18529:18609" ph="SELECT * FRO... tickets" />
+                <marker date="1523860364206" expanded="true" signature="19364:19426" ph="SELECT * FRO... tickets" />
+                <marker date="1523860364206" expanded="true" signature="20031:20061" ph="SELECT * FRO... ticket_options" />
+                <marker date="1523860364206" expanded="true" signature="21675:21720" ph="SELECT * FRO... events" />
+                <marker date="1523860364206" expanded="true" signature="21816:21992" ph="INSERT INTO `ticket_options`... " />
+                <marker date="1523860364206" expanded="true" signature="25068:25333" ph="INSERT INTO `ticket_sales`... " />
+                <marker date="1523860364206" expanded="true" signature="29424:29689" ph="INSERT INTO `ticket_sales`... " />
+                <marker date="1523860364206" expanded="true" signature="31869:31911" ph="DELETE FROM " />
+                <marker date="1523860364206" expanded="true" signature="32588:32708" ph="INSERT INTO `merchandize`... " />
+                <marker date="1523860364206" expanded="true" signature="33220:33266" ph="SELECT * FRO... events" />
+                <marker date="1523860364206" expanded="true" signature="33406:33459" ph="SELECT * FRO... tickets" />
+                <marker date="1523860364206" expanded="true" signature="33632:33689" ph="UPDATE `even... " />
+                <marker date="1523860364206" expanded="true" signature="34135:34440" ph="INSERT INTO `tickets`... " />
+                <marker date="1523860364206" expanded="true" signature="34779:35017" ph="INSERT INTO `ticket_sales`... " />
+                <marker date="1523860364206" expanded="true" signature="35142:35492" ph="INSERT INTO `tickets`... " />
+                <marker date="1523860364206" expanded="true" signature="35578:35640" ph="SELECT * FRO... tickets" />
+                <marker date="1523860364206" expanded="true" signature="36041:36126" ph="SELECT * FRO... tickets" />
+                <marker date="1523860364206" expanded="true" signature="36225:36304" ph="UPDATE `tick... " />
+                <marker date="1523860364206" expanded="true" signature="37423:37627" ph="INSERT INTO `transactions`... " />
+                <marker date="1523860364206" expanded="true" signature="37712:37777" ph="SELECT * FRO... ticket_sales" />
+                <marker date="1523860364206" expanded="true" signature="38111:38185" ph="UPDATE `tick... " />
+                <marker date="1523860364206" expanded="true" signature="38233:38302" ph="UPDATE `tick... " />
+                <marker date="1523860364206" expanded="true" signature="38360:38421" ph="SELECT * FRO... tickets" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBConfig.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/includes/DBConfig.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1924" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f77f5b73-4444-4a69-b4a2-1e74e9b46d90" name="Default" comment="" />
+      <created>1511680550031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511680550031</updated>
+      <workItem from="1511680551540" duration="3566000" />
+      <workItem from="1523860233570" duration="1219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4785000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16577825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1523860364206" expanded="true" signature="637:763" ph="SELECT SUM(a... transactions" />
+            <marker date="1523860364206" expanded="true" signature="983:1067" ph="SELECT day, " />
+            <marker date="1523860364206" expanded="true" signature="1383:1467" ph="SELECT day, " />
+            <marker date="1523860364206" expanded="true" signature="1979:2149" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="2178:2363" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="2394:2579" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="2618:2741" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="2770:2908" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="2939:3077" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="3537:3598" ph="SELECT * FRO... events" />
+            <marker date="1523860364206" expanded="true" signature="7079:7410" ph="INSERT INTO `events`... " />
+            <marker date="1523860364206" expanded="true" signature="8486:8530" ph="DELETE FROM " />
+            <marker date="1523860364206" expanded="true" signature="9178:9258" ph="SELECT * FRO... users" />
+            <marker date="1523860364206" expanded="true" signature="10013:10154" ph="SELECT * FRO... events" />
+            <marker date="1523860364206" expanded="true" signature="10183:10241" ph="SELECT * FRO... events" />
+            <marker date="1523860364206" expanded="true" signature="11162:11243" ph="SELECT * FRO... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="11343:11404" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="12297:12340" ph="SELECT * FRO... events" />
+            <marker date="1523860364206" expanded="true" signature="13108:13131" ph="SELECT * FRO... options" />
+            <marker date="1523860364206" expanded="true" signature="13189:13229" ph="SELECT * FRO... options" />
+            <marker date="1523860364206" expanded="true" signature="13636:13689" ph="SELECT * FRO... ticket_options" />
+            <marker date="1523860364206" expanded="true" signature="13985:14031" ph="SELECT * FRO... options" />
+            <marker date="1523860364206" expanded="true" signature="14509:14593" ph="SELECT day, " />
+            <marker date="1523860364206" expanded="true" signature="14875:14959" ph="SELECT day, " />
+            <marker date="1523860364206" expanded="true" signature="15245:15413" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="15553:15618" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="15816:15891" ph="UPDATE `tick... " />
+            <marker date="1523860364206" expanded="true" signature="15990:16084" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="16256:16373" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="16545:16662" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="16806:16856" ph="SELECT * FRO... merchandize" />
+            <marker date="1523860364206" expanded="true" signature="17177:17331" ph="SELECT * FRO... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="17361:17445" ph="SELECT * FRO... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="18275:18500" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="18529:18609" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="19364:19426" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="20031:20061" ph="SELECT * FRO... ticket_options" />
+            <marker date="1523860364206" expanded="true" signature="21675:21720" ph="SELECT * FRO... events" />
+            <marker date="1523860364206" expanded="true" signature="21816:21992" ph="INSERT INTO `ticket_options`... " />
+            <marker date="1523860364206" expanded="true" signature="25068:25333" ph="INSERT INTO `ticket_sales`... " />
+            <marker date="1523860364206" expanded="true" signature="29424:29689" ph="INSERT INTO `ticket_sales`... " />
+            <marker date="1523860364206" expanded="true" signature="31869:31911" ph="DELETE FROM " />
+            <marker date="1523860364206" expanded="true" signature="32588:32708" ph="INSERT INTO `merchandize`... " />
+            <marker date="1523860364206" expanded="true" signature="33220:33266" ph="SELECT * FRO... events" />
+            <marker date="1523860364206" expanded="true" signature="33406:33459" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="33632:33689" ph="UPDATE `even... " />
+            <marker date="1523860364206" expanded="true" signature="34135:34440" ph="INSERT INTO `tickets`... " />
+            <marker date="1523860364206" expanded="true" signature="34779:35017" ph="INSERT INTO `ticket_sales`... " />
+            <marker date="1523860364206" expanded="true" signature="35142:35492" ph="INSERT INTO `tickets`... " />
+            <marker date="1523860364206" expanded="true" signature="35578:35640" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="36041:36126" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="36225:36304" ph="UPDATE `tick... " />
+            <marker date="1523860364206" expanded="true" signature="37423:37627" ph="INSERT INTO `transactions`... " />
+            <marker date="1523860364206" expanded="true" signature="37712:37777" ph="SELECT * FRO... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="38111:38185" ph="UPDATE `tick... " />
+            <marker date="1523860364206" expanded="true" signature="38233:38302" ph="UPDATE `tick... " />
+            <marker date="1523860364206" expanded="true" signature="38360:38421" ph="SELECT * FRO... tickets" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="1262" column="65" lean-forward="true" selection-start-line="1262" selection-start-column="65" selection-end-line="1262" selection-end-column="65" />
+          <folding>
+            <marker date="1523860364206" expanded="true" signature="637:763" ph="SELECT SUM(a... transactions" />
+            <marker date="1523860364206" expanded="true" signature="983:1067" ph="SELECT day, " />
+            <marker date="1523860364206" expanded="true" signature="1383:1467" ph="SELECT day, " />
+            <marker date="1523860364206" expanded="true" signature="1979:2149" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="2178:2363" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="2394:2579" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="2618:2741" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="2770:2908" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="2939:3077" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="3537:3598" ph="SELECT * FRO... events" />
+            <marker date="1523860364206" expanded="true" signature="7079:7410" ph="INSERT INTO `events`... " />
+            <marker date="1523860364206" expanded="true" signature="8486:8530" ph="DELETE FROM " />
+            <marker date="1523860364206" expanded="true" signature="9178:9258" ph="SELECT * FRO... users" />
+            <marker date="1523860364206" expanded="true" signature="10013:10154" ph="SELECT * FRO... events" />
+            <marker date="1523860364206" expanded="true" signature="10183:10241" ph="SELECT * FRO... events" />
+            <marker date="1523860364206" expanded="true" signature="11162:11243" ph="SELECT * FRO... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="11343:11404" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="12297:12340" ph="SELECT * FRO... events" />
+            <marker date="1523860364206" expanded="true" signature="13108:13131" ph="SELECT * FRO... options" />
+            <marker date="1523860364206" expanded="true" signature="13189:13229" ph="SELECT * FRO... options" />
+            <marker date="1523860364206" expanded="true" signature="13636:13689" ph="SELECT * FRO... ticket_options" />
+            <marker date="1523860364206" expanded="true" signature="13985:14031" ph="SELECT * FRO... options" />
+            <marker date="1523860364206" expanded="true" signature="14509:14593" ph="SELECT day, " />
+            <marker date="1523860364206" expanded="true" signature="14875:14959" ph="SELECT day, " />
+            <marker date="1523860364206" expanded="true" signature="15245:15413" ph="SELECT SUM(a... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="15553:15618" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="15816:15891" ph="UPDATE `tick... " />
+            <marker date="1523860364206" expanded="true" signature="15990:16084" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="16256:16373" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="16545:16662" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="16806:16856" ph="SELECT * FRO... merchandize" />
+            <marker date="1523860364206" expanded="true" signature="17177:17331" ph="SELECT * FRO... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="17361:17445" ph="SELECT * FRO... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="18275:18500" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="18529:18609" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="19364:19426" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="20031:20061" ph="SELECT * FRO... ticket_options" />
+            <marker date="1523860364206" expanded="true" signature="21675:21720" ph="SELECT * FRO... events" />
+            <marker date="1523860364206" expanded="true" signature="21816:21992" ph="INSERT INTO `ticket_options`... " />
+            <marker date="1523860364206" expanded="true" signature="25068:25333" ph="INSERT INTO `ticket_sales`... " />
+            <marker date="1523860364206" expanded="true" signature="29424:29689" ph="INSERT INTO `ticket_sales`... " />
+            <marker date="1523860364206" expanded="true" signature="31869:31911" ph="DELETE FROM " />
+            <marker date="1523860364206" expanded="true" signature="32588:32708" ph="INSERT INTO `merchandize`... " />
+            <marker date="1523860364206" expanded="true" signature="33220:33266" ph="SELECT * FRO... events" />
+            <marker date="1523860364206" expanded="true" signature="33406:33459" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="33632:33689" ph="UPDATE `even... " />
+            <marker date="1523860364206" expanded="true" signature="34135:34440" ph="INSERT INTO `tickets`... " />
+            <marker date="1523860364206" expanded="true" signature="34779:35017" ph="INSERT INTO `ticket_sales`... " />
+            <marker date="1523860364206" expanded="true" signature="35142:35492" ph="INSERT INTO `tickets`... " />
+            <marker date="1523860364206" expanded="true" signature="35578:35640" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="36041:36126" ph="SELECT * FRO... tickets" />
+            <marker date="1523860364206" expanded="true" signature="36225:36304" ph="UPDATE `tick... " />
+            <marker date="1523860364206" expanded="true" signature="37423:37627" ph="INSERT INTO `transactions`... " />
+            <marker date="1523860364206" expanded="true" signature="37712:37777" ph="SELECT * FRO... ticket_sales" />
+            <marker date="1523860364206" expanded="true" signature="38111:38185" ph="UPDATE `tick... " />
+            <marker date="1523860364206" expanded="true" signature="38233:38302" ph="UPDATE `tick... " />
+            <marker date="1523860364206" expanded="true" signature="38360:38421" ph="SELECT * FRO... tickets" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

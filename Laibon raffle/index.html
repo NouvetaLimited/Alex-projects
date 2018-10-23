@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml" xmlns:v-bind="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Raffle ticket</title>
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+    <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+	<link href="css/main.css" rel="stylesheet">
+	<link href="css/animate.css" rel="stylesheet">
+	<link href="css/responsive.css" rel="stylesheet">
+  <link href="css/progress-bar.css" rel="stylesheet">
+
+
+    <!--[if lt IE 9]>
+	    <script src="js/html5shiv.js"></script>
+	    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+    <style>
+* {
+    box-sizing: border-box;
+}
+
+.col-container {
+    display: table;
+    width: 100%;
+}
+.col {
+    display: table-cell;
+    padding: 16px;
+}
+
+@media only screen and (max-width: 600px) {
+    .col { 
+        display: block;
+        width: 100%;
+    }
+}
+</style>
+</head>
+</head><!--/head-->
+
+<body>
+	<header id="header" role="banner">
+		<div class="main-nav">
+			<div class="container">
+				<div class="header-top">
+					<div class="pull-right social-icons">
+						<a href="https://twitter.com/LaibonSociety"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.facebook.com/laibonsociety/"><i class="fa fa-facebook"></i></a>
+						<a href="https://plus.google.com/+LaibonSocietyOrg1966"><i class="fa fa-google-plus"></i></a>
+						<a href="https://youtu.be/OF20bScAcMs"><i class="fa fa-youtube"></i></a>
+					</div>
+				</div>
+		        <div class="row">
+		            <div class="navbar-header">
+		                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+		                    <span class="sr-only">Toggle navigation</span>
+		                    <span class="icon-bar"></span>
+		                    <span class="icon-bar"></span>
+		                    <span class="icon-bar"></span>
+		                </button>
+
+		            </div>
+		            <div class="collapse navbar-collapse">
+
+		            </div>
+		        </div>
+	        </div>
+        </div>
+    </header>
+    <!--/#header-->
+
+    <section id="home">
+		<div id="main-slider" class="carousel slide" data-ride="carousel">
+			<ol class="carousel-indicators">
+				<li data-target="#main-slider" data-slide-to="0" class="active"></li>
+				<li data-target="#main-slider" data-slide-to="1"></li>
+				<li data-target="#main-slider" data-slide-to="2"></li>
+
+
+
+			</ol>
+			<div class="carousel-inner">
+				<div class="item active">
+					<img class="img-responsive" src="images/slider/bg1.jpg" alt="slider" border="0" alt="Null">
+
+				</div>
+
+			</div>
+		</div>
+    </section>
+	<!--/#home-->
+<section>
+<div>
+  <img class="img-responsive" src="images/slider/img.jpg" alt="slider" >
+
+<a class="button"  data-toggle="modal" data-target="#myModal" >Buy Raffle!</a>
+
+</div>
+</div>
+  <div id="app" class="container">
+
+    <!-- Trigger the modal with a button -->
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+
+          </div>
+          <div class="modal-body">
+            Select number
+            of raffle tickets  <p> Raffles </p>
+              <select>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+              </select>
+              <div class="col-container">
+                <div class="col" >
+                  <img src="images/mpesa.jpg" alt="mpesa icon" height="70px" width="100px">
+                  <form  onsubmit="return false;">
+                    Telephone:
+                    <input type="tel" v-model="phoneNumber">
+                    <br><br>
+                      <button v-on:click="pushMpesa" class="btn btn-success">Pay Now</button>
+                  </form>
+                </div>
+                <div class="col">
+                   <img src="images/Credit-Card.png" alt="visa icon" height="50px" width="150px">
+                  <div class="row-fluid">
+                    <form onsubmit="return false;" class="form-horizontal">
+                      <fieldset>
+                        <!--  <div id="legend">
+                        <legend class="">Payment</legend>
+                      </div> -->
+
+                      <!-- Name -->
+                      <div class="control-group">
+                        <label class="control-label"  for="username">Card Holder's Name</label>
+                        <div class="controls">
+                          <input type="text"v-model="cardHolderName" name="username" placeholder="" class="input-xlarge">
+                        </div>
+                      </div>
+
+                      <!-- Card Number -->
+                      <div class="control-group">
+                        <label class="control-label" for="email">Card Number</label>
+                        <div class="controls">
+                          <input type="text" v-model="cardNumber" name="email" placeholder="" class="input-xlarge">
+                        </div>
+                      </div>
+
+                      <!-- Expiry-->
+                      <div class="control-group">
+                        <label class="control-label" for="password">Card Expiry Date</label>
+                        <div class="controls">
+                          <select v-model="selectedMonth" class="span3" name="expiry_month" id="expiry_month">
+                            <option></option>
+                            <option v-bind:value="{ month: 1}" >Jan (01)</option>
+                            <option v-bind:value="{ month: 2 }">Feb (02)</option>
+                            <option v-bind:value="{ month: 3 }">Mar (03)</option>
+                            <option v-bind:value="{ month: 4 }">Apr (04)</option>
+                            <option v-bind:value="{ month: 5 }">May (05)</option>
+                            <option v-bind:value="{ month: 6 }">June (06)</option>
+                            <option v-bind:value="{ month: 7 }">July (07)</option>
+                            <option v-bind:value="{ month: 8 }">Aug (08)</option>
+                            <option v-bind:value="{ month: 9 }">Sep (09)</option>
+                            <option v-bind:value="{ month: 10 }">Oct (10)</option>1
+                            <option v-bind:value="{ month: 11 }">Nov (11)</option>
+                            <option v-bind:value="{ month: 12 }">Dec (12)</option>
+                          </select>
+                          <select v-model="selectedYear" class="span2" name="expiry_year">
+                            <option v-bind:value="{ year: 2017}">2017</option>
+                            <option v-bind:value="{ year: 2018}">2018</option>
+                            <option v-bind:value="{ year: 2019}">2019</option>
+                            <option v-bind:value="{ year: 2020}">2020</option>
+                            <option v-bind:value="{ year: 2021}">2021</option>
+                            <option v-bind:value="{ year: 2022}">2022</option>
+                            <option v-bind:value="{ year: 2023}">2023</option>
+                            <option v-bind:value="{ year: 2024}">2024</option>
+                            <option v-bind:value="{ year: 2025}">2025</option>
+                            <option v-bind:value="{ year: 2026}">2026</option>
+                            <option v-bind:value="{ year: 2027}">2027</option>
+                          </select>
+                        </div>
+                      </div>
+
+                      <!-- CVV -->
+                      <div class="control-group">
+                        <label class="control-label"  for="password_confirm">Card CVV</label>
+                        <div class="controls">
+                          <input type="password" v-model="cardCVV" name="password_confirm" placeholder="" class="span2">
+                        </div>
+                      </div>
+
+                      <!-- Save card -->
+                      <div class="control-group">
+                        <div class="controls">
+                          <label class="checkbox" for="save_card">
+                            <input type="checkbox" id="save_card" value="option1">
+                            Save card on file?
+                          </label>
+                        </div>
+                      </div>
+
+                      <!-- Submit -->
+                      <div class="control-group">
+                        <div class="controls">
+                          <button v-on:click="cardPayment" class="btn btn-success">Pay Now</button>
+                        </div>
+                      </div>
+
+                    </fieldset>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--Dialoge-->
+    <div id="enquirypopup" class="modal fade in" role="dialog">
+      <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content row">
+          <div class="modal-header custom-modal-header">
+            <button type="button" class="close" data-dismiss="modal">×</button>
+            <h4 class="modal-title">REGISTER BEFORE YOU CONTINUE</h4>
+          </div>
+          <div class="modal-body">
+            <select v-model="selectedYearRange" style="float:center; padding-left:10px; line-height: 20px;" >
+              <option v-bind:value="year">Year</option>
+              <option v-bind:value=" { year:1983-1988 }">1983-1988</option>
+              <option v-bind:value=" { year:1977-1982 }">1977-1982</option>
+              <option v-bind:value=" { year:1986-1989 }">1986-1989</option>
+              <option v-bind:value=" { year:1981-1986 }">1981-1986</option>
+              <option v-bind:value=" { year:1969-1974 }">1969-1974</option>
+              <option v-bind:value=" { year:1991-1994 }">1991-1994</option>
+              <option v-bind:value=" { year:1994-1997 }">1994-1997</option>
+              <option v-bind:value=" { year:1980-1985 }">1980-1985</option>
+              <option v-bind:value=" { year:1972-1977 }">1972-1977</option>
+              <option v-bind:value=" { year:1973-1978 }">1973-1978</option>
+              <option v-bind:value=" { year:1960-1970 }">1960-1970</option>
+              <option v-bind:value=" { year:1990-1993 }">1990-1993</option>
+              <option v-bind:value=" { year:1996-1999 }">1996-1999</option>
+              <option v-bind:value=" { year:2000-2003 }">2000-2003</option>
+              <option v-bind:value=" { year:1974-1979 }">1974-1979</option>
+              <option v-bind:value=" { year:1979-1984 }">1979-1984</option>
+              <option v-bind:value=" { year:1993-1996 }">1993-1996</option>
+              <option v-bind:value=" { year:2004-2007 }">2004-2007</option>
+              <option v-bind:value=" { year:1999-2002 }">1999-2002</option>
+              <option v-bind:value=" { year:2005-2008 }">2005-2008</option>
+              <option v-bind:value=" { year:1988-1991 }">1988-1991</option>
+              <option v-bind:value=" { year:1989-1992 }">1989-1992</option>
+              <option v-bind:value=" { year:1978-1983 }">1978-1983</option>
+              <option v-bind:value=" { year:1987-1990 }">1987-1990</option>
+              <option v-bind:value=" { year:2006-2009 }">2006-2009</option>
+              <option v-bind:value=" { year:1997-2000 }">1997-2000</option>
+              <option v-bind:value=" { year:2001-2004 }">2001-2004</option>
+              <option v-bind:value=" { year:1992-1995 }">1992-1995</option>
+              <option v-bind:value=" { year:1982-1987 }">1982-1987</option>
+              <option v-bind:value=" { year:2003-2006 }">2003-2006</option>
+              <option v-bind:value=" { year:1977-1982 }">1977-1982</option>
+              <option v-bind:value=" { year:1986-1989 }">1986-1989</option>
+              <option v-bind:value=" { year:1981-1986 }">1981-1986</option>
+              <option v-bind:value=" { year:1969-1974 }">1969-1974</option>
+              <option v-bind:value=" { year:1991-1994 }">1991-1994</option>
+              <option v-bind:value=" { year:1994-1997 }">1994-1997</option>
+              <option v-bind:value=" { year:1980-1985 }">1980-1985</option>
+              <option v-bind:value=" { year:1972-1977 }">1972-1977</option>
+              <option v-bind:value=" { year:1973-1978 }">1973-1978</option>
+              <option v-bind:value=" { year:1960-1970 }">1960-1970</option>
+              <option v-bind:value=" { year:1990-1993 }">1990-1993</option>
+              <option v-bind:value=" { year:1996-1999 }">1996-1999</option>
+              <option v-bind:value=" { year:1976-1981 }">1976-1981</option>
+              <option v-bind:value=" { year:2000-2003 }">2000-2003</option>
+              <option v-bind:value=" { year:1974-1979 }">1974-1979</option>
+              <option v-bind:value=" { year:1979-1984 }">1979-1984</option>
+              <option v-bind:value=" { year:1993-1996 }">1993-1996</option>
+              <option v-bind:value=" { year:2004-2007 }">2004-2007</option>
+              <option v-bind:value=" { year:1999-2002 }">1999-2002</option>
+              <option v-bind:value=" { year:2005-2008 }">2005-2008</option>
+              <option v-bind:value=" { year:1988-1991 }">1988-1991</option>
+              <option v-bind:value=" { year:1989-1992 }">1989-1992</option>
+              <option v-bind:value=" { year:1978-1983 }">1978-1983</option>
+              <option v-bind:value=" { year:1987-1990 }">1987-1990</option>
+              <option v-bind:value=" { year:2006-2009 }">2006-2009</option>
+              <option v-bind:value=" { year:1997-2000 }">1997-2000</option>
+              <option v-bind:value=" { year:2001-2004 }">2001-2004</option>
+              <option v-bind:value=" { year:1992-1995 }">1992-1995</option>
+              <option v-bind:value=" { year:1982-1987 }">1982-1987</option>
+              <option v-bind:value=" { year:2003-2006 }">2003-2006</option>
+            </select>
+            <form onsubmit="return false;" class="form-inline" >
+              <div class="form-group col-sm-12">
+                <input type="email" class="form-control" name="email" v-model="email" placeholder="Enter Email">
+              </div>
+              <div class="form-group col-sm-12">
+                <input type="text" class="form-control" name="phone" v-model="phoneNumber" placeholder="Enter Phone">
+              </div>
+
+              <div class="form-group col-sm-12">
+                <button type="submit" v-on:click="register" class="btn btn-default pull-right">Submit</button>
+              </div>
+            </form>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- Gallery -->
+  <section id="galleries">
+
+    <!-- Photo Galleries -->
+<div class="gallery">
+
+  <header class="special">
+    <h2>Current Progress</h2>
+  </header>
+  <div class="content">
+    <div class="media">
+      <a href="images/1.jpg"><img src="images/11.jpg" alt="" title="Click to view" /></a>
+    </div>
+    <div class="media">
+      <a href="images/2.jpg"><img src="images/22.jpg" alt="" title="Click to view" /></a>
+    </div>
+    <div class="media">
+      <a href="images/3.jpg"><img src="images/33.jpg" alt="" title="Click to view" /></a>
+    </div>
+    <div class="media">
+      <a href="images/4.jpg"><img src="images/44.jpg" alt="" title="Click to view"/></a>
+    </div>
+
+  </div>
+
+</div>
+</section>
+
+
+    <footer id="footer">
+        <div class="container">
+            <div class="text-center">
+
+                <p> Copyright  &copy;2017<a target="_blank" href="ticketsoko.co.ke/"></a> All Rights Reserved. <br> Powered by <a target="_blank" href="http://nouveta.tech/" </a><img class="img" src="images/s.jpg" ></p>
+            </div>
+        </div>
+    </footer>
+    <!--/#footer-->
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="js\jquery.bpopup.min.js"></script>
+    <script>
+    function openModal() {
+    document.getElementById('myModal').style.display = "block";
+    }
+
+    function closeModal() {
+    document.getElementById('myModal').style.display = "none";
+    }
+
+    var slideIndex = 1;
+    showSlides(slideIndex);
+
+    function plusSlides(n) {
+    showSlides(slideIndex += n);
+    }
+
+    function currentSlide(n) {
+    showSlides(slideIndex = n);
+    }
+
+    function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("demo");
+    var captionText = document.getElementById("caption");
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";
+    dots[slideIndex-1].className += " active";
+    captionText.innerHTML = dots[slideIndex-1].alt;
+    }
+    </script>
+    <script>
+      $(window).load(function(){
+  setTimeout(function() {
+    $('#enquirypopup').modal('show');
+  }, 3000);
+    });
+
+    </script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+  	<script type="text/javascript" src="js/gmaps.js"></script>
+	<script type="text/javascript" src="js/smoothscroll.js"></script>
+    <script type="text/javascript" src="js/jquery.parallax.js"></script>
+    <script type="text/javascript" src="js/coundown-timer.js"></script>
+    <script type="text/javascript" src="js/jquery.scrollTo.js"></script>
+    <script type="text/javascript" src="js/jquery.nav.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+</body>
+
+
+
+<script src="https://unpkg.com/vue@2.0.3/dist/vue.js"></script>
+<script src="https://unpkg.com/axios@0.12.0/dist/axios.min.js"></script>
+<script src="https://unpkg.com/lodash@4.13.1/lodash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.5/jspdf.debug.js"></script>
+
+<script>
+    var app = new Vue({
+        el: '#app',
+        data: {
+            phoneNumber: '',
+            url: 'https://laibon.ticketsoko.co.ke/api/index.php',
+            cardHolderName: '',
+            cardNumber: '',
+            cardExpiryDate: '',
+            cardCVV: '',
+            email: ''
+        },
+        methods: {
+            pushMpesa: function () {
+                if( this.phoneNumber ===''){
+                    alert("Please Enter your Mpesa Mobile Number")
+                    return
+                }
+                var data = new FormData()
+                data.append('function', 'MpesaPush')
+                data.append('phoneNumber', this.phoneNumber)
+                axios.post(this.url,data)
+                    .then(function (response) {
+                        alert(response.data.message)
+                }).catch(function ( error) {
+
+                })
+            },
+            cardPayment: function () {
+                if( this.cardHolderName ==='' || this.cardNumber ==='' || this.cardCVV===''){
+                    alert("Please Enter you card details")
+                    return
+                }
+                var data = new FormData()
+                data.append('function', 'cardPayment')
+                data.append('cardHolderName', this.cardHolderName)
+                data.append('cardNumber', this.cardNumber)
+                data.append('year',this.selectedYear.year)
+                data.append('month', this.selectedMonth.month)
+                data.append('cardCVV', this.cardCVV)
+                axios.post(this.url,data)
+                    .then(function (response) {
+                        alert(response.data.message)
+                }).catch(function ( error) {
+
+                })
+            } ,
+            register: function () {
+                if( this.email ==='' || this.phoneNumber ===''){
+                    alert("Please Enter your email and mobile number")
+                    return
+                }
+                var data = new FormData()
+                data.append('function', 'register')
+                data.append('phone_number', this.phoneNumber)
+                data.append('email', this.email)
+                data.append("year",this.selectedYearRange.year)
+                axios.post(this.url,data)
+                    .then(function (response) {
+                        alert(response.data.message)
+                }).catch(function ( error) {
+
+                })
+            }
+        }
+
+    })
+</script>
+
+
+</html>

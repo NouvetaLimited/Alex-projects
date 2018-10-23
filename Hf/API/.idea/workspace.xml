@@ -1,0 +1,2043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f77f5b73-4444-4a69-b4a2-1e74e9b46d90" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/callback.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="439" column="1" lean-forward="true" selection-start-line="439" selection-start-column="1" selection-end-line="439" selection-end-column="1" />
+              <folding>
+                <element signature="e#6#91#0#PHP" expanded="true" />
+                <element signature="e#301#342#0#PHP" expanded="true" />
+                <marker date="1526023548685" expanded="true" signature="550:595" ph="SELECT SUM(t... report_count" />
+                <marker date="1526023548685" expanded="true" signature="694:722" ph="SELECT * FRO... report_count" />
+                <marker date="1526023548685" expanded="true" signature="3355:3840" ph="INSERT INTO `mpesa_transaction`... " />
+                <marker date="1526023548685" expanded="true" signature="6287:6637" ph="INSERT INTO `kocela_transactions`... " />
+                <marker date="1526023548685" expanded="true" signature="10178:10820" ph="INSERT INTO `core_banking_mpesa`... " />
+                <marker date="1526023548685" expanded="true" signature="12985:13204" ph="INSERT INTO `atm_transaction`... " />
+                <marker date="1526023548685" expanded="true" signature="16697:17337" ph="INSERT INTO `core_banking_atm`... " />
+                <marker date="1526023548685" expanded="true" signature="18020:18054" ph="SELECT * FRO... core_banking_mpesa" />
+                <marker date="1526023548685" expanded="true" signature="18085:18773" ph="SELECT * FRO... core_banking_mpesa" />
+                <marker date="1526023548685" expanded="true" signature="19641:19674" ph="SELECT * FRO... mpesa_transaction" />
+                <marker date="1526023548685" expanded="true" signature="19705:20310" ph="SELECT * FRO... mpesa_transaction" />
+                <marker date="1526023548685" expanded="true" signature="21176:21211" ph="SELECT * FRO... kocela_transactions" />
+                <marker date="1526023548685" expanded="true" signature="21242:21849" ph="SELECT * FRO... kocela_transactions" />
+                <marker date="1526023548685" expanded="true" signature="22714:22746" ph="SELECT * FRO... core_banking_atm" />
+                <marker date="1526023548685" expanded="true" signature="22777:23543" ph="SELECT * FRO... core_banking_atm" />
+                <marker date="1526023548685" expanded="true" signature="24405:24436" ph="SELECT * FRO... atm_transaction" />
+                <marker date="1526023548685" expanded="true" signature="24467:24743" ph="SELECT * FRO... atm_transaction" />
+                <marker date="1526023548685" expanded="true" signature="25604:25694" ph="SELECT SUM(C... core_banking_mpesa" />
+                <marker date="1526023548685" expanded="true" signature="25832:25922" ph="SELECT SUM(C... core_banking_mpesa" />
+                <marker date="1526023548685" expanded="true" signature="26073:26140" ph="SELECT SUM(C... core_banking_mpesa" />
+                <marker date="1526023548685" expanded="true" signature="26309:26396" ph="SELECT SUM(D... core_banking_atm" />
+                <marker date="1526023548685" expanded="true" signature="26528:26615" ph="SELECT SUM(D... core_banking_atm" />
+                <marker date="1526023548685" expanded="true" signature="26760:26824" ph="SELECT SUM(D... core_banking_atm" />
+                <marker date="1526023548685" expanded="true" signature="27438:27527" ph="SELECT SUM(P... mpesa_transaction" />
+                <marker date="1526023548685" expanded="true" signature="27683:27772" ph="SELECT SUM(P... mpesa_transaction" />
+                <marker date="1526023548685" expanded="true" signature="27941:28007" ph="SELECT SUM(P... mpesa_transaction" />
+                <marker date="1526023548685" expanded="true" signature="28188:28275" ph="SELECT SUM(a... atm_transaction" />
+                <marker date="1526023548685" expanded="true" signature="28425:28512" ph="SELECT SUM(a... atm_transaction" />
+                <marker date="1526023548685" expanded="true" signature="28675:28739" ph="SELECT SUM(a... atm_transaction" />
+                <marker date="1526023548685" expanded="true" signature="30509:30541" ph="DELETE FROM " />
+                <marker date="1526023548685" expanded="true" signature="30620:30652" ph="DELETE FROM " />
+                <marker date="1526023548685" expanded="true" signature="30724:30754" ph="DELETE FROM " />
+                <marker date="1526023548685" expanded="true" signature="30831:30861" ph="DELETE FROM " />
+                <marker date="1526023548685" expanded="true" signature="30898:30931" ph="DELETE FROM " />
+                <marker date="1526023548685" expanded="true" signature="31176:31210" ph="SELECT * FRO... core_banking_mpesa" />
+                <marker date="1526023548685" expanded="true" signature="31369:31438" ph="INSERT INTO `report_count`... " />
+                <marker date="1526023548685" expanded="true" signature="31718:31784" ph="SELECT * FRO... mpesa_transaction" />
+                <marker date="1526023548685" expanded="true" signature="32010:32084" ph="SELECT * FRO... kocela_transactions" />
+                <marker date="1526023548685" expanded="true" signature="32373:32484" ph="UPDATE `core... " />
+                <marker date="1526023548685" expanded="true" signature="32545:32671" ph="UPDATE `mpes... " />
+                <marker date="1526023548685" expanded="true" signature="32731:32864" ph="UPDATE `koce... " />
+                <marker date="1526023548685" expanded="true" signature="33064:33180" ph="UPDATE `core... " />
+                <marker date="1526023548685" expanded="true" signature="33241:33372" ph="UPDATE `mpes... " />
+                <marker date="1526023548685" expanded="true" signature="33432:33570" ph="UPDATE `koce... " />
+                <marker date="1526023548685" expanded="true" signature="33740:33856" ph="UPDATE `core... " />
+                <marker date="1526023548685" expanded="true" signature="33913:34044" ph="UPDATE `mpes... " />
+                <marker date="1526023548685" expanded="true" signature="34100:34238" ph="UPDATE `koce... " />
+                <marker date="1526023548685" expanded="true" signature="34427:34548" ph="UPDATE `core... " />
+                <marker date="1526023548685" expanded="true" signature="34601:34733" ph="UPDATE `mpes... " />
+                <marker date="1526023548685" expanded="true" signature="34785:34923" ph="UPDATE `koce... " />
+                <marker date="1526023548685" expanded="true" signature="35051:35174" ph="UPDATE `core... " />
+                <marker date="1526023548685" expanded="true" signature="35223:35355" ph="UPDATE `mpes... " />
+                <marker date="1526023548685" expanded="true" signature="35403:35541" ph="UPDATE `koce... " />
+                <marker date="1526023548685" expanded="true" signature="36070:36102" ph="SELECT * FRO... core_banking_atm" />
+                <marker date="1526023548685" expanded="true" signature="36468:36518" ph="SELECT * FRO... atm_transaction" />
+                <marker date="1526023548685" expanded="true" signature="36778:36890" ph="UPDATE `core... " />
+                <marker date="1526023548685" expanded="true" signature="36943:37052" ph="UPDATE `atm_... " />
+                <marker date="1526023548685" expanded="true" signature="37213:37331" ph="UPDATE `core... " />
+                <marker date="1526023548685" expanded="true" signature="37384:37506" ph="UPDATE `atm_... " />
+                <marker date="1526023548685" expanded="true" signature="37633:37750" ph="UPDATE `core... " />
+                <marker date="1526023548685" expanded="true" signature="37799:37920" ph="UPDATE `atm_... " />
+                <marker date="1526023548685" expanded="true" signature="40384:40492" ph="SELECT `Tran... core_banking_mpesa" />
+                <marker date="1526023548685" expanded="true" signature="40521:40662" ph="SELECT `Tran... core_banking_mpesa" />
+                <marker date="1526023548685" expanded="true" signature="41659:41765" ph="SELECT `Tran... core_banking_atm" />
+                <marker date="1526023548685" expanded="true" signature="41796:41923" ph="SELECT `Tran... core_banking_atm" />
+                <marker date="1526023548685" expanded="true" signature="43469:43577" ph="SELECT `Tran... core_banking_mpesa" />
+                <marker date="1526023548685" expanded="true" signature="43607:43736" ph="SELECT `Tran... core_banking_mpesa" />
+                <marker date="1526023548685" expanded="true" signature="44970:45076" ph="SELECT `Tran... core_banking_atm" />
+                <marker date="1526023548685" expanded="true" signature="45106:45233" ph="SELECT `Tran... core_banking_atm" />
+                <marker date="1526023548685" expanded="true" signature="45958:46059" ph="SELECT `Comp... mpesa_transaction" />
+                <marker date="1526023548685" expanded="true" signature="46088:46222" ph="SELECT `Comp... mpesa_transaction" />
+                <marker date="1526023548685" expanded="true" signature="47176:47265" ph="SELECT `card... atm_transaction" />
+                <marker date="1526023548685" expanded="true" signature="47296:47406" ph="SELECT `card... atm_transaction" />
+                <marker date="1526023548685" expanded="true" signature="48899:49000" ph="SELECT `Comp... mpesa_transaction" />
+                <marker date="1526023548685" expanded="true" signature="49030:49152" ph="SELECT `Comp... mpesa_transaction" />
+                <marker date="1526023548685" expanded="true" signature="50368:50457" ph="SELECT `card... atm_transaction" />
+                <marker date="1526023548685" expanded="true" signature="50487:50597" ph="SELECT `card... atm_transaction" />
+                <marker date="1526023548685" expanded="true" signature="51302:51500" ph="SELECT `Inte... kocela_transactions" />
+                <marker date="1526023548685" expanded="true" signature="51530:51760" ph="SELECT `Inte... kocela_transactions" />
+                <marker date="1526023548685" expanded="true" signature="53816:54014" ph="SELECT `Inte... kocela_transactions" />
+                <marker date="1526023548685" expanded="true" signature="54044:54274" ph="SELECT `Inte... kocela_transactions" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1768">
+              <caret line="1334" column="0" lean-forward="false" selection-start-line="1334" selection-start-column="0" selection-end-line="1334" selection-end-column="0" />
+              <folding>
+                <element signature="e#510#1181#0#PHP" expanded="false" />
+                <element signature="e#792#1177#0#PHP" expanded="false" />
+                <element signature="e#813#915#0#PHP" expanded="false" />
+                <element signature="e#1184#4403#0#PHP" expanded="false" />
+                <element signature="e#1430#4400#0#PHP" expanded="false" />
+                <element signature="e#1962#3926#0#PHP" expanded="false" />
+                <element signature="e#2100#3916#0#PHP" expanded="false" />
+                <element signature="e#4177#4400#0#PHP" expanded="false" />
+                <element signature="e#4404#7200#0#PHP" expanded="false" />
+                <element signature="e#4642#7197#0#PHP" expanded="false" />
+                <element signature="e#5174#6723#0#PHP" expanded="false" />
+                <element signature="e#5312#6713#0#PHP" expanded="false" />
+                <element signature="e#6974#7197#0#PHP" expanded="false" />
+                <element signature="e#7201#11463#0#PHP" expanded="false" />
+                <element signature="e#7449#11460#0#PHP" expanded="false" />
+                <element signature="e#7981#10986#0#PHP" expanded="false" />
+                <element signature="e#8119#10976#0#PHP" expanded="false" />
+                <element signature="e#10018#10961#0#PHP" expanded="false" />
+                <element signature="e#10079#10942#0#PHP" expanded="false" />
+                <element signature="e#10127#10920#0#PHP" expanded="false" />
+                <element signature="e#11237#11460#0#PHP" expanded="false" />
+                <element signature="e#11465#13767#0#PHP" expanded="false" />
+                <element signature="e#11700#13764#0#PHP" expanded="false" />
+                <element signature="e#12232#13290#0#PHP" expanded="false" />
+                <element signature="e#12370#13280#0#PHP" expanded="false" />
+                <element signature="e#13541#13764#0#PHP" expanded="false" />
+                <element signature="e#13768#17900#0#PHP" expanded="false" />
+                <element signature="e#14014#17897#0#PHP" expanded="false" />
+                <element signature="e#14546#17423#0#PHP" expanded="false" />
+                <element signature="e#14684#17413#0#PHP" expanded="false" />
+                <element signature="e#17674#17897#0#PHP" expanded="false" />
+                <element signature="e#17902#19523#0#PHP" expanded="false" />
+                <element signature="e#17984#18783#0#PHP" expanded="false" />
+                <element signature="e#18063#18783#0#PHP" expanded="false" />
+                <element signature="e#18838#19520#0#PHP" expanded="false" />
+                <element signature="e#18874#18976#0#PHP" expanded="false" />
+                <element signature="e#19250#19520#0#PHP" expanded="false" />
+                <element signature="e#19524#21057#0#PHP" expanded="false" />
+                <element signature="e#19605#20319#0#PHP" expanded="false" />
+                <element signature="e#19683#20319#0#PHP" expanded="false" />
+                <element signature="e#20374#21054#0#PHP" expanded="false" />
+                <element signature="e#20410#20512#0#PHP" expanded="false" />
+                <element signature="e#20784#21054#0#PHP" expanded="false" />
+                <element signature="e#21058#22596#0#PHP" expanded="false" />
+                <element signature="e#21140#21858#0#PHP" expanded="false" />
+                <element signature="e#21220#21858#0#PHP" expanded="false" />
+                <element signature="e#21913#22593#0#PHP" expanded="false" />
+                <element signature="e#21949#22051#0#PHP" expanded="false" />
+                <element signature="e#22323#22593#0#PHP" expanded="false" />
+                <element signature="e#22598#24289#0#PHP" expanded="false" />
+                <element signature="e#22678#23551#0#PHP" expanded="false" />
+                <element signature="e#22755#23551#0#PHP" expanded="false" />
+                <element signature="e#23606#24286#0#PHP" expanded="false" />
+                <element signature="e#23642#23744#0#PHP" expanded="false" />
+                <element signature="e#24016#24286#0#PHP" expanded="false" />
+                <element signature="e#24290#25489#0#PHP" expanded="false" />
+                <element signature="e#24369#24751#0#PHP" expanded="false" />
+                <element signature="e#24445#24751#0#PHP" expanded="false" />
+                <element signature="e#24806#25486#0#PHP" expanded="false" />
+                <element signature="e#24842#24944#0#PHP" expanded="false" />
+                <element signature="e#25216#25486#0#PHP" expanded="false" />
+                <element signature="e#25491#30437#0#PHP" expanded="false" />
+                <element signature="e#29477#30357#0#PHP" expanded="false" />
+                <element signature="e#30438#31096#0#PHP" expanded="false" />
+                <element signature="n#reconcileMpesa#0;n#!!top" expanded="false" />
+                <element signature="e#31227#35991#0#PHP" expanded="false" />
+                <element signature="e#31414#35532#0#PHP" expanded="false" />
+                <element signature="e#31818#35521#0#PHP" expanded="false" />
+                <element signature="e#31921#34908#0#PHP" expanded="false" />
+                <element signature="e#32137#34227#0#PHP" expanded="false" />
+                <element signature="e#32258#33563#0#PHP" expanded="false" />
+                <element signature="e#32857#33563#0#PHP" expanded="false" />
+                <element signature="e#33586#34227#0#PHP" expanded="false" />
+                <element signature="e#34247#34908#0#PHP" expanded="false" />
+                <element signature="e#34923#35521#0#PHP" expanded="false" />
+                <element signature="e#35760#35991#0#PHP" expanded="false" />
+                <element signature="n#reconcileATM#0;n#!!top" expanded="false" />
+                <element signature="e#36119#38367#0#PHP" expanded="false" />
+                <element signature="e#36154#37910#0#PHP" expanded="false" />
+                <element signature="e#36560#37899#0#PHP" expanded="false" />
+                <element signature="e#36672#37490#0#PHP" expanded="false" />
+                <element signature="e#37038#37490#0#PHP" expanded="false" />
+                <element signature="e#37505#37899#0#PHP" expanded="false" />
+                <element signature="e#38137#38367#0#PHP" expanded="false" />
+                <element signature="e#38372#38430#0#PHP" expanded="false" />
+                <element signature="e#38431#38484#0#PHP" expanded="false" />
+                <element signature="e#38488#38703#0#PHP" expanded="false" />
+                <element signature="e#38603#38701#0#PHP" expanded="false" />
+                <element signature="e#38668#38701#0#PHP" expanded="false" />
+                <element signature="n#removeSpaces#0;n#!!top" expanded="false" />
+                <element signature="n#areEqual#0;n#!!top" expanded="false" />
+                <element signature="e#39210#39259#0#PHP" expanded="false" />
+                <element signature="e#39422#39488#0#PHP" expanded="false" />
+                <element signature="n#PDF#0;n#!!top" expanded="false" />
+                <element signature="n#Header#0;n#PDF#0;n#!!top" expanded="false" />
+                <element signature="n#Footer#0;n#PDF#0;n#!!top" expanded="false" />
+                <element signature="e#40221#41499#0#PHP" expanded="false" />
+                <element signature="e#40307#40631#0#PHP" expanded="false" />
+                <element signature="e#40460#40631#0#PHP" expanded="false" />
+                <element signature="e#40697#40894#0#PHP" expanded="false" />
+                <element signature="e#40921#41100#0#PHP" expanded="false" />
+                <element signature="e#41244#41345#0#PHP" expanded="false" />
+                <element signature="e#41350#41476#0#PHP" expanded="false" />
+                <element signature="e#41500#42767#0#PHP" expanded="false" />
+                <element signature="e#41584#41902#0#PHP" expanded="false" />
+                <element signature="e#41735#41902#0#PHP" expanded="false" />
+                <element signature="e#41968#42165#0#PHP" expanded="false" />
+                <element signature="e#42192#42368#0#PHP" expanded="false" />
+                <element signature="e#42512#42613#0#PHP" expanded="false" />
+                <element signature="e#42618#42744#0#PHP" expanded="false" />
+                <element signature="e#42769#44270#0#PHP" expanded="false" />
+                <element signature="e#43394#43715#0#PHP" expanded="false" />
+                <element signature="e#43546#43715#0#PHP" expanded="false" />
+                <element signature="e#43781#44191#0#PHP" expanded="false" />
+                <element signature="e#44271#45767#0#PHP" expanded="false" />
+                <element signature="e#44894#45211#0#PHP" expanded="false" />
+                <element signature="e#45044#45211#0#PHP" expanded="false" />
+                <element signature="e#45278#45688#0#PHP" expanded="false" />
+                <element signature="e#45789#47007#0#PHP" expanded="false" />
+                <element signature="e#45881#46189#0#PHP" expanded="false" />
+                <element signature="e#46025#46189#0#PHP" expanded="false" />
+                <element signature="e#46255#46445#0#PHP" expanded="false" />
+                <element signature="e#46752#46853#0#PHP" expanded="false" />
+                <element signature="e#46858#46984#0#PHP" expanded="false" />
+                <element signature="e#47008#48197#0#PHP" expanded="false" />
+                <element signature="e#47099#47383#0#PHP" expanded="false" />
+                <element signature="e#47233#47383#0#PHP" expanded="false" />
+                <element signature="e#47449#47627#0#PHP" expanded="false" />
+                <element signature="e#47654#47798#0#PHP" expanded="false" />
+                <element signature="e#47942#48043#0#PHP" expanded="false" />
+                <element signature="e#48048#48174#0#PHP" expanded="false" />
+                <element signature="e#48199#49679#0#PHP" expanded="false" />
+                <element signature="e#48822#49129#0#PHP" expanded="false" />
+                <element signature="e#48967#49129#0#PHP" expanded="false" />
+                <element signature="e#49195#49600#0#PHP" expanded="false" />
+                <element signature="e#49680#51115#0#PHP" expanded="false" />
+                <element signature="e#50291#50574#0#PHP" expanded="false" />
+                <element signature="e#50424#50574#0#PHP" expanded="false" />
+                <element signature="e#50641#51036#0#PHP" expanded="false" />
+                <element signature="e#51135#52833#0#PHP" expanded="false" />
+                <element signature="n#toInt#0;n#!!top" expanded="false" />
+                <element signature="n#diff#0;n#!!top" expanded="false" />
+                <element signature="n#formatcurrency#0;n#!!top" expanded="false" />
+                <marker date="1525430749650" expanded="false" signature="550:595" ph="SELECT SUM(t... report_count" />
+                <marker date="1525430749650" expanded="false" signature="694:722" ph="SELECT * FRO... report_count" />
+                <marker date="1525430749650" expanded="false" signature="3355:3840" ph="INSERT INTO `mpesa_transaction`... " />
+                <marker date="1525430749650" expanded="false" signature="6287:6637" ph="INSERT INTO `kocela_transactions`... " />
+                <marker date="1525430749650" expanded="false" signature="10178:10820" ph="INSERT INTO `core_banking_mpesa`... " />
+                <marker date="1525430749650" expanded="false" signature="12985:13204" ph="INSERT INTO `atm_transaction`... " />
+                <marker date="1525430749650" expanded="false" signature="16697:17337" ph="INSERT INTO `core_banking_atm`... " />
+                <marker date="1525430749650" expanded="false" signature="18020:18054" ph="SELECT * FRO... core_banking_mpesa" />
+                <marker date="1525430749650" expanded="false" signature="18085:18773" ph="SELECT * FRO... core_banking_mpesa" />
+                <marker date="1525430749650" expanded="false" signature="19641:19674" ph="SELECT * FRO... mpesa_transaction" />
+                <marker date="1525430749650" expanded="false" signature="19705:20310" ph="SELECT * FRO... mpesa_transaction" />
+                <marker date="1525430749650" expanded="false" signature="21176:21211" ph="SELECT * FRO... mpesa_transaction" />
+                <marker date="1525430749650" expanded="false" signature="21242:21849" ph="SELECT * FRO... mpesa_transaction" />
+                <marker date="1525430749650" expanded="false" signature="22714:22746" ph="SELECT * FRO... core_banking_atm" />
+                <marker date="1525430749650" expanded="false" signature="22777:23543" ph="SELECT * FRO... core_banking_atm" />
+                <marker date="1525430749650" expanded="false" signature="24405:24436" ph="SELECT * FRO... atm_transaction" />
+                <marker date="1525430749650" expanded="false" signature="24467:24743" ph="SELECT * FRO... atm_transaction" />
+                <marker date="1525430749650" expanded="false" signature="25604:25694" ph="SELECT SUM(C... core_banking_mpesa" />
+                <marker date="1525430749650" expanded="false" signature="25832:25922" ph="SELECT SUM(C... core_banking_mpesa" />
+                <marker date="1525430749650" expanded="false" signature="26073:26140" ph="SELECT SUM(C... core_banking_mpesa" />
+                <marker date="1525430749650" expanded="false" signature="26309:26396" ph="SELECT SUM(D... core_banking_atm" />
+                <marker date="1525430749650" expanded="false" signature="26528:26615" ph="SELECT SUM(D... core_banking_atm" />
+                <marker date="1525430749650" expanded="false" signature="26760:26824" ph="SELECT SUM(D... core_banking_atm" />
+                <marker date="1525430749650" expanded="false" signature="27438:27527" ph="SELECT SUM(P... mpesa_transaction" />
+                <marker date="1525430749650" expanded="false" signature="27683:27772" ph="SELECT SUM(P... mpesa_transaction" />
+                <marker date="1525430749650" expanded="false" signature="27941:28007" ph="SELECT SUM(P... mpesa_transaction" />
+                <marker date="1525430749650" expanded="false" signature="28188:28275" ph="SELECT SUM(a... atm_transaction" />
+                <marker date="1525430749650" expanded="false" signature="28425:28512" ph="SELECT SUM(a... atm_transaction" />
+                <marker date="1525430749650" expanded="false" signature="28675:28739" ph="SELECT SUM(a... atm_transaction" />
+                <marker date="1525430749650" expanded="false" signature="30562:30594" ph="DELETE FROM " />
+                <marker date="1525430749650" expanded="false" signature="30665:30697" ph="DELETE FROM " />
+                <marker date="1525430749650" expanded="false" signature="30765:30795" ph="DELETE FROM " />
+                <marker date="1525430749650" expanded="false" signature="30864:30894" ph="DELETE FROM " />
+                <marker date="1525430749650" expanded="false" signature="31139:31173" ph="SELECT * FRO... core_banking_mpesa" />
+                <marker date="1525430749650" expanded="false" signature="31332:31401" ph="INSERT INTO `report_count`... " />
+                <marker date="1525430749650" expanded="false" signature="31681:31747" ph="SELECT * FRO... mpesa_transaction" />
+                <marker date="1525430749650" expanded="false" signature="31973:32047" ph="SELECT * FRO... kocela_transactions" />
+                <marker date="1525430749650" expanded="false" signature="32336:32447" ph="UPDATE `core... " />
+                <marker date="1525430749650" expanded="false" signature="32508:32634" ph="UPDATE `mpes... " />
+                <marker date="1525430749650" expanded="false" signature="32694:32827" ph="UPDATE `koce... " />
+                <marker date="1525430749650" expanded="false" signature="33027:33143" ph="UPDATE `core... " />
+                <marker date="1525430749650" expanded="false" signature="33204:33335" ph="UPDATE `mpes... " />
+                <marker date="1525430749650" expanded="false" signature="33395:33533" ph="UPDATE `koce... " />
+                <marker date="1525430749650" expanded="false" signature="33703:33819" ph="UPDATE `core... " />
+                <marker date="1525430749650" expanded="false" signature="33876:34007" ph="UPDATE `mpes... " />
+                <marker date="1525430749650" expanded="false" signature="34063:34201" ph="UPDATE `koce... " />
+                <marker date="1525430749650" expanded="false" signature="34390:34511" ph="UPDATE `core... " />
+                <marker date="1525430749650" expanded="false" signature="34564:34696" ph="UPDATE `mpes... " />
+                <marker date="1525430749650" expanded="false" signature="34748:34886" ph="UPDATE `koce... " />
+                <marker date="1525430749650" expanded="false" signature="35014:35137" ph="UPDATE `core... " />
+                <marker date="1525430749650" expanded="false" signature="35186:35318" ph="UPDATE `mpes... " />
+                <marker date="1525430749650" expanded="false" signature="35366:35504" ph="UPDATE `koce... " />
+                <marker date="1525430749650" expanded="false" signature="36033:36065" ph="SELECT * FRO... core_banking_atm" />
+                <marker date="1525430749650" expanded="false" signature="36431:36481" ph="SELECT * FRO... atm_transaction" />
+                <marker date="1525430749650" expanded="false" signature="36741:36853" ph="UPDATE `core... " />
+                <marker date="1525430749650" expanded="false" signature="36906:37015" ph="UPDATE `atm_... " />
+                <marker date="1525430749650" expanded="false" signature="37175:37293" ph="UPDATE `core... " />
+                <marker date="1525430749650" expanded="false" signature="37346:37468" ph="UPDATE `atm_... " />
+                <marker date="1525430749650" expanded="false" signature="37595:37712" ph="UPDATE `core... " />
+                <marker date="1525430749650" expanded="false" signature="37761:37882" ph="UPDATE `atm_... " />
+                <marker date="1525430749650" expanded="false" signature="40344:40452" ph="SELECT `Tran... core_banking_mpesa" />
+                <marker date="1525430749650" expanded="false" signature="40481:40622" ph="SELECT `Tran... core_banking_mpesa" />
+                <marker date="1525430749650" expanded="false" signature="41619:41725" ph="SELECT `Tran... core_banking_atm" />
+                <marker date="1525430749650" expanded="false" signature="41756:41883" ph="SELECT `Tran... core_banking_atm" />
+                <marker date="1525430749650" expanded="false" signature="43429:43537" ph="SELECT `Tran... core_banking_mpesa" />
+                <marker date="1525430749650" expanded="false" signature="43567:43696" ph="SELECT `Tran... core_banking_mpesa" />
+                <marker date="1525430749650" expanded="false" signature="44929:45035" ph="SELECT `Tran... core_banking_atm" />
+                <marker date="1525430749650" expanded="false" signature="45065:45192" ph="SELECT `Tran... core_banking_atm" />
+                <marker date="1525430749650" expanded="false" signature="45916:46017" ph="SELECT `Comp... mpesa_transaction" />
+                <marker date="1525430749650" expanded="false" signature="46046:46180" ph="SELECT `Comp... mpesa_transaction" />
+                <marker date="1525430749650" expanded="false" signature="47134:47223" ph="SELECT `card... atm_transaction" />
+                <marker date="1525430749650" expanded="false" signature="47254:47364" ph="SELECT `card... atm_transaction" />
+                <marker date="1525430749650" expanded="false" signature="48857:48958" ph="SELECT `Comp... mpesa_transaction" />
+                <marker date="1525430749650" expanded="false" signature="48988:49110" ph="SELECT `Comp... mpesa_transaction" />
+                <marker date="1525430749650" expanded="false" signature="50326:50415" ph="SELECT `card... atm_transaction" />
+                <marker date="1525430749650" expanded="false" signature="50445:50555" ph="SELECT `card... atm_transaction" />
+                <marker date="1525430749650" expanded="true" signature="51260:51458" ph="SELECT `Inte... kocela_transactions" />
+                <marker date="1525430749650" expanded="true" signature="51488:51718" ph="SELECT `Inte... kocela_transactions" />
+                <marker date="1525430749650" expanded="true" signature="53775:53973" ph="SELECT `Inte... kocela_transactions" />
+                <marker date="1525430749650" expanded="true" signature="54003:54233" ph="SELECT `Inte... kocela_transactions" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="standard_1.php" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15385">
+              <caret line="905" column="9" lean-forward="false" selection-start-line="905" selection-start-column="9" selection-end-line="905" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fpdf.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helpers/fpdf/fpdf.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5219">
+              <caret line="313" column="34" lean-forward="false" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DB.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/DB.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBConfig.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$orientation</find>
+      <find>Rec</find>
+      <find>Reconcile</find>
+      <find>recon ();</find>
+      <find>recon ()</find>
+      <find>reconcileATM</find>
+      <find>dashboardDataCoreBanking</find>
+      <find>$fundInAccountMpesaCB</find>
+      <find>formatinr</find>
+      <find>REPORT</find>
+      <find>recon</find>
+      <find>kocela_transactions</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/includes/DBConfig.php" />
+        <option value="$PROJECT_DIR$/index2.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1924" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Reconciliation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reconciliation" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RECONDASHBOARD" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\nouveta\Reconciliation" />
+      <recent name="C:\xampp\htdocs\nouveta\Reconciliation\helpers\fpdf" />
+      <recent name="C:\xampp\htdocs\nouveta\Reconciliation\helpers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f77f5b73-4444-4a69-b4a2-1e74e9b46d90" name="Default" comment="" />
+      <created>1511680550031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511680550031</updated>
+      <workItem from="1511680551540" duration="3566000" />
+      <workItem from="1521451319033" duration="12751000" />
+      <workItem from="1521533650736" duration="20255000" />
+      <workItem from="1521621242567" duration="10830000" />
+      <workItem from="1521695398854" duration="3094000" />
+      <workItem from="1521715828014" duration="29747000" />
+      <workItem from="1522049808895" duration="211000" />
+      <workItem from="1522317609107" duration="676000" />
+      <workItem from="1523084510756" duration="35000" />
+      <workItem from="1523085096172" duration="973000" />
+      <workItem from="1523533907636" duration="4893000" />
+      <workItem from="1523611741527" duration="173000" />
+      <workItem from="1523619900271" duration="7747000" />
+      <workItem from="1524040279816" duration="11655000" />
+      <workItem from="1525349873920" duration="17810000" />
+      <workItem from="1525755225583" duration="205000" />
+      <workItem from="1525756853116" duration="506000" />
+      <workItem from="1525941472240" duration="2126000" />
+      <workItem from="1526023508664" duration="1617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="128870000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19509594" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.004459309" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#301#342#0#PHP" expanded="true" />
+            <marker date="1526023548685" expanded="true" signature="550:595" ph="SELECT SUM(t... report_count" />
+            <marker date="1526023548685" expanded="true" signature="694:722" ph="SELECT * FRO... report_count" />
+            <marker date="1526023548685" expanded="true" signature="3355:3840" ph="INSERT INTO `mpesa_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="6287:6637" ph="INSERT INTO `kocela_transactions`... " />
+            <marker date="1526023548685" expanded="true" signature="10178:10820" ph="INSERT INTO `core_banking_mpesa`... " />
+            <marker date="1526023548685" expanded="true" signature="12985:13204" ph="INSERT INTO `atm_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="16697:17337" ph="INSERT INTO `core_banking_atm`... " />
+            <marker date="1526023548685" expanded="true" signature="18020:18054" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="18085:18773" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="19641:19674" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="19705:20310" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="21176:21211" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="21242:21849" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="22714:22746" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="22777:23543" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="24405:24436" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="24467:24743" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="25604:25694" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="25832:25922" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26073:26140" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26309:26396" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26528:26615" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26760:26824" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="27438:27527" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27683:27772" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27941:28007" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28188:28275" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28425:28512" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28675:28739" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="30509:30541" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30620:30652" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30724:30754" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30831:30861" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30898:30931" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="31176:31210" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="31369:31438" ph="INSERT INTO `report_count`... " />
+            <marker date="1526023548685" expanded="true" signature="31718:31784" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="32010:32084" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="32373:32484" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="32545:32671" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="32731:32864" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33064:33180" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33241:33372" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="33432:33570" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33740:33856" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33913:34044" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34100:34238" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="34427:34548" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="34601:34733" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34785:34923" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="35051:35174" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="35223:35355" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="35403:35541" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="36070:36102" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="36468:36518" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="36778:36890" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="36943:37052" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37213:37331" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37384:37506" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37633:37750" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37799:37920" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="40384:40492" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="40521:40662" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="41659:41765" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="41796:41923" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="43469:43577" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="43607:43736" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="44970:45076" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45106:45233" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45958:46059" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="46088:46222" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47176:47265" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47296:47406" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="48899:49000" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="49030:49152" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50368:50457" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50487:50597" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="51302:51500" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="51530:51760" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="53816:54014" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="54044:54274" ph="SELECT `Inte... kocela_transactions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15385">
+          <caret line="905" column="9" lean-forward="false" selection-start-line="905" selection-start-column="9" selection-end-line="905" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/fpdf/fpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5219">
+          <caret line="313" column="34" lean-forward="false" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#301#342#0#PHP" expanded="true" />
+            <marker date="1526023548685" expanded="true" signature="550:595" ph="SELECT SUM(t... report_count" />
+            <marker date="1526023548685" expanded="true" signature="694:722" ph="SELECT * FRO... report_count" />
+            <marker date="1526023548685" expanded="true" signature="3355:3840" ph="INSERT INTO `mpesa_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="6287:6637" ph="INSERT INTO `kocela_transactions`... " />
+            <marker date="1526023548685" expanded="true" signature="10178:10820" ph="INSERT INTO `core_banking_mpesa`... " />
+            <marker date="1526023548685" expanded="true" signature="12985:13204" ph="INSERT INTO `atm_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="16697:17337" ph="INSERT INTO `core_banking_atm`... " />
+            <marker date="1526023548685" expanded="true" signature="18020:18054" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="18085:18773" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="19641:19674" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="19705:20310" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="21176:21211" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="21242:21849" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="22714:22746" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="22777:23543" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="24405:24436" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="24467:24743" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="25604:25694" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="25832:25922" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26073:26140" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26309:26396" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26528:26615" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26760:26824" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="27438:27527" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27683:27772" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27941:28007" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28188:28275" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28425:28512" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28675:28739" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="30509:30541" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30620:30652" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30724:30754" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30831:30861" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30898:30931" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="31176:31210" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="31369:31438" ph="INSERT INTO `report_count`... " />
+            <marker date="1526023548685" expanded="true" signature="31718:31784" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="32010:32084" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="32373:32484" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="32545:32671" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="32731:32864" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33064:33180" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33241:33372" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="33432:33570" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33740:33856" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33913:34044" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34100:34238" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="34427:34548" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="34601:34733" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34785:34923" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="35051:35174" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="35223:35355" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="35403:35541" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="36070:36102" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="36468:36518" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="36778:36890" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="36943:37052" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37213:37331" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37384:37506" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37633:37750" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37799:37920" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="40384:40492" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="40521:40662" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="41659:41765" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="41796:41923" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="43469:43577" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="43607:43736" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="44970:45076" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45106:45233" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45958:46059" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="46088:46222" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47176:47265" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47296:47406" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="48899:49000" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="49030:49152" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50368:50457" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50487:50597" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="51302:51500" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="51530:51760" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="53816:54014" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="54044:54274" ph="SELECT `Inte... kocela_transactions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15385">
+          <caret line="905" column="9" lean-forward="false" selection-start-line="905" selection-start-column="9" selection-end-line="905" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/fpdf/fpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5219">
+          <caret line="313" column="34" lean-forward="false" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#301#342#0#PHP" expanded="true" />
+            <marker date="1526023548685" expanded="true" signature="550:595" ph="SELECT SUM(t... report_count" />
+            <marker date="1526023548685" expanded="true" signature="694:722" ph="SELECT * FRO... report_count" />
+            <marker date="1526023548685" expanded="true" signature="3355:3840" ph="INSERT INTO `mpesa_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="6287:6637" ph="INSERT INTO `kocela_transactions`... " />
+            <marker date="1526023548685" expanded="true" signature="10178:10820" ph="INSERT INTO `core_banking_mpesa`... " />
+            <marker date="1526023548685" expanded="true" signature="12985:13204" ph="INSERT INTO `atm_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="16697:17337" ph="INSERT INTO `core_banking_atm`... " />
+            <marker date="1526023548685" expanded="true" signature="18020:18054" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="18085:18773" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="19641:19674" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="19705:20310" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="21176:21211" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="21242:21849" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="22714:22746" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="22777:23543" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="24405:24436" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="24467:24743" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="25604:25694" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="25832:25922" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26073:26140" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26309:26396" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26528:26615" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26760:26824" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="27438:27527" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27683:27772" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27941:28007" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28188:28275" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28425:28512" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28675:28739" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="30509:30541" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30620:30652" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30724:30754" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30831:30861" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30898:30931" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="31176:31210" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="31369:31438" ph="INSERT INTO `report_count`... " />
+            <marker date="1526023548685" expanded="true" signature="31718:31784" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="32010:32084" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="32373:32484" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="32545:32671" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="32731:32864" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33064:33180" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33241:33372" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="33432:33570" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33740:33856" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33913:34044" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34100:34238" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="34427:34548" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="34601:34733" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34785:34923" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="35051:35174" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="35223:35355" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="35403:35541" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="36070:36102" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="36468:36518" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="36778:36890" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="36943:37052" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37213:37331" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37384:37506" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37633:37750" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37799:37920" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="40384:40492" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="40521:40662" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="41659:41765" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="41796:41923" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="43469:43577" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="43607:43736" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="44970:45076" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45106:45233" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45958:46059" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="46088:46222" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47176:47265" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47296:47406" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="48899:49000" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="49030:49152" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50368:50457" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50487:50597" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="51302:51500" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="51530:51760" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="53816:54014" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="54044:54274" ph="SELECT `Inte... kocela_transactions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15385">
+          <caret line="905" column="9" lean-forward="false" selection-start-line="905" selection-start-column="9" selection-end-line="905" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/fpdf/fpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5219">
+          <caret line="313" column="34" lean-forward="false" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#301#342#0#PHP" expanded="true" />
+            <marker date="1526023548685" expanded="true" signature="550:595" ph="SELECT SUM(t... report_count" />
+            <marker date="1526023548685" expanded="true" signature="694:722" ph="SELECT * FRO... report_count" />
+            <marker date="1526023548685" expanded="true" signature="3355:3840" ph="INSERT INTO `mpesa_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="6287:6637" ph="INSERT INTO `kocela_transactions`... " />
+            <marker date="1526023548685" expanded="true" signature="10178:10820" ph="INSERT INTO `core_banking_mpesa`... " />
+            <marker date="1526023548685" expanded="true" signature="12985:13204" ph="INSERT INTO `atm_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="16697:17337" ph="INSERT INTO `core_banking_atm`... " />
+            <marker date="1526023548685" expanded="true" signature="18020:18054" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="18085:18773" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="19641:19674" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="19705:20310" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="21176:21211" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="21242:21849" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="22714:22746" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="22777:23543" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="24405:24436" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="24467:24743" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="25604:25694" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="25832:25922" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26073:26140" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26309:26396" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26528:26615" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26760:26824" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="27438:27527" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27683:27772" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27941:28007" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28188:28275" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28425:28512" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28675:28739" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="30509:30541" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30620:30652" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30724:30754" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30831:30861" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30898:30931" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="31176:31210" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="31369:31438" ph="INSERT INTO `report_count`... " />
+            <marker date="1526023548685" expanded="true" signature="31718:31784" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="32010:32084" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="32373:32484" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="32545:32671" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="32731:32864" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33064:33180" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33241:33372" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="33432:33570" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33740:33856" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33913:34044" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34100:34238" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="34427:34548" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="34601:34733" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34785:34923" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="35051:35174" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="35223:35355" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="35403:35541" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="36070:36102" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="36468:36518" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="36778:36890" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="36943:37052" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37213:37331" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37384:37506" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37633:37750" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37799:37920" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="40384:40492" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="40521:40662" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="41659:41765" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="41796:41923" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="43469:43577" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="43607:43736" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="44970:45076" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45106:45233" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45958:46059" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="46088:46222" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47176:47265" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47296:47406" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="48899:49000" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="49030:49152" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50368:50457" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50487:50597" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="51302:51500" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="51530:51760" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="53816:54014" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="54044:54274" ph="SELECT `Inte... kocela_transactions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15385">
+          <caret line="905" column="9" lean-forward="false" selection-start-line="905" selection-start-column="9" selection-end-line="905" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/fpdf/fpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5321">
+          <caret line="313" column="34" lean-forward="false" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#301#342#0#PHP" expanded="true" />
+            <marker date="1526023548685" expanded="true" signature="550:595" ph="SELECT SUM(t... report_count" />
+            <marker date="1526023548685" expanded="true" signature="694:722" ph="SELECT * FRO... report_count" />
+            <marker date="1526023548685" expanded="true" signature="3355:3840" ph="INSERT INTO `mpesa_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="6287:6637" ph="INSERT INTO `kocela_transactions`... " />
+            <marker date="1526023548685" expanded="true" signature="10178:10820" ph="INSERT INTO `core_banking_mpesa`... " />
+            <marker date="1526023548685" expanded="true" signature="12985:13204" ph="INSERT INTO `atm_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="16697:17337" ph="INSERT INTO `core_banking_atm`... " />
+            <marker date="1526023548685" expanded="true" signature="18020:18054" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="18085:18773" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="19641:19674" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="19705:20310" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="21176:21211" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="21242:21849" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="22714:22746" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="22777:23543" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="24405:24436" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="24467:24743" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="25604:25694" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="25832:25922" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26073:26140" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26309:26396" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26528:26615" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26760:26824" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="27438:27527" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27683:27772" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27941:28007" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28188:28275" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28425:28512" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28675:28739" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="30509:30541" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30620:30652" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30724:30754" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30831:30861" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30898:30931" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="31176:31210" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="31369:31438" ph="INSERT INTO `report_count`... " />
+            <marker date="1526023548685" expanded="true" signature="31718:31784" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="32010:32084" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="32373:32484" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="32545:32671" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="32731:32864" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33064:33180" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33241:33372" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="33432:33570" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33740:33856" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33913:34044" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34100:34238" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="34427:34548" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="34601:34733" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34785:34923" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="35051:35174" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="35223:35355" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="35403:35541" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="36070:36102" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="36468:36518" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="36778:36890" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="36943:37052" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37213:37331" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37384:37506" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37633:37750" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37799:37920" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="40384:40492" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="40521:40662" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="41659:41765" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="41796:41923" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="43469:43577" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="43607:43736" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="44970:45076" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45106:45233" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45958:46059" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="46088:46222" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47176:47265" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47296:47406" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="48899:49000" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="49030:49152" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50368:50457" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50487:50597" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="51302:51500" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="51530:51760" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="53816:54014" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="54044:54274" ph="SELECT `Inte... kocela_transactions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/fpdf/fpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5321">
+          <caret line="313" column="34" lean-forward="false" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#301#342#0#PHP" expanded="true" />
+            <marker date="1526023548685" expanded="true" signature="550:595" ph="SELECT SUM(t... report_count" />
+            <marker date="1526023548685" expanded="true" signature="694:722" ph="SELECT * FRO... report_count" />
+            <marker date="1526023548685" expanded="true" signature="3355:3840" ph="INSERT INTO `mpesa_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="6287:6637" ph="INSERT INTO `kocela_transactions`... " />
+            <marker date="1526023548685" expanded="true" signature="10178:10820" ph="INSERT INTO `core_banking_mpesa`... " />
+            <marker date="1526023548685" expanded="true" signature="12985:13204" ph="INSERT INTO `atm_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="16697:17337" ph="INSERT INTO `core_banking_atm`... " />
+            <marker date="1526023548685" expanded="true" signature="18020:18054" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="18085:18773" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="19641:19674" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="19705:20310" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="21176:21211" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="21242:21849" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="22714:22746" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="22777:23543" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="24405:24436" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="24467:24743" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="25604:25694" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="25832:25922" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26073:26140" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26309:26396" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26528:26615" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26760:26824" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="27438:27527" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27683:27772" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27941:28007" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28188:28275" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28425:28512" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28675:28739" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="30509:30541" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30620:30652" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30724:30754" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30831:30861" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30898:30931" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="31176:31210" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="31369:31438" ph="INSERT INTO `report_count`... " />
+            <marker date="1526023548685" expanded="true" signature="31718:31784" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="32010:32084" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="32373:32484" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="32545:32671" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="32731:32864" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33064:33180" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33241:33372" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="33432:33570" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33740:33856" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33913:34044" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34100:34238" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="34427:34548" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="34601:34733" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34785:34923" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="35051:35174" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="35223:35355" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="35403:35541" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="36070:36102" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="36468:36518" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="36778:36890" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="36943:37052" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37213:37331" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37384:37506" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37633:37750" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37799:37920" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="40384:40492" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="40521:40662" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="41659:41765" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="41796:41923" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="43469:43577" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="43607:43736" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="44970:45076" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45106:45233" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45958:46059" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="46088:46222" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47176:47265" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47296:47406" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="48899:49000" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="49030:49152" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50368:50457" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50487:50597" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="51302:51500" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="51530:51760" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="53816:54014" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="54044:54274" ph="SELECT `Inte... kocela_transactions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/fpdf/fpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5321">
+          <caret line="313" column="34" lean-forward="false" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#301#342#0#PHP" expanded="true" />
+            <marker date="1526023548685" expanded="true" signature="550:595" ph="SELECT SUM(t... report_count" />
+            <marker date="1526023548685" expanded="true" signature="694:722" ph="SELECT * FRO... report_count" />
+            <marker date="1526023548685" expanded="true" signature="3355:3840" ph="INSERT INTO `mpesa_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="6287:6637" ph="INSERT INTO `kocela_transactions`... " />
+            <marker date="1526023548685" expanded="true" signature="10178:10820" ph="INSERT INTO `core_banking_mpesa`... " />
+            <marker date="1526023548685" expanded="true" signature="12985:13204" ph="INSERT INTO `atm_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="16697:17337" ph="INSERT INTO `core_banking_atm`... " />
+            <marker date="1526023548685" expanded="true" signature="18020:18054" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="18085:18773" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="19641:19674" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="19705:20310" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="21176:21211" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="21242:21849" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="22714:22746" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="22777:23543" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="24405:24436" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="24467:24743" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="25604:25694" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="25832:25922" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26073:26140" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26309:26396" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26528:26615" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26760:26824" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="27438:27527" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27683:27772" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27941:28007" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28188:28275" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28425:28512" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28675:28739" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="30509:30541" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30620:30652" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30724:30754" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30831:30861" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30898:30931" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="31176:31210" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="31369:31438" ph="INSERT INTO `report_count`... " />
+            <marker date="1526023548685" expanded="true" signature="31718:31784" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="32010:32084" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="32373:32484" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="32545:32671" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="32731:32864" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33064:33180" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33241:33372" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="33432:33570" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33740:33856" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33913:34044" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34100:34238" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="34427:34548" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="34601:34733" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34785:34923" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="35051:35174" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="35223:35355" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="35403:35541" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="36070:36102" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="36468:36518" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="36778:36890" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="36943:37052" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37213:37331" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37384:37506" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37633:37750" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37799:37920" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="40384:40492" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="40521:40662" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="41659:41765" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="41796:41923" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="43469:43577" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="43607:43736" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="44970:45076" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45106:45233" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45958:46059" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="46088:46222" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47176:47265" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47296:47406" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="48899:49000" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="49030:49152" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50368:50457" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50487:50597" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="51302:51500" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="51530:51760" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="53816:54014" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="54044:54274" ph="SELECT `Inte... kocela_transactions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/fpdf/fpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5219">
+          <caret line="313" column="34" lean-forward="false" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#301#342#0#PHP" expanded="true" />
+            <marker date="1526023548685" expanded="true" signature="550:595" ph="SELECT SUM(t... report_count" />
+            <marker date="1526023548685" expanded="true" signature="694:722" ph="SELECT * FRO... report_count" />
+            <marker date="1526023548685" expanded="true" signature="3355:3840" ph="INSERT INTO `mpesa_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="6287:6637" ph="INSERT INTO `kocela_transactions`... " />
+            <marker date="1526023548685" expanded="true" signature="10178:10820" ph="INSERT INTO `core_banking_mpesa`... " />
+            <marker date="1526023548685" expanded="true" signature="12985:13204" ph="INSERT INTO `atm_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="16697:17337" ph="INSERT INTO `core_banking_atm`... " />
+            <marker date="1526023548685" expanded="true" signature="18020:18054" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="18085:18773" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="19641:19674" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="19705:20310" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="21176:21211" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="21242:21849" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="22714:22746" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="22777:23543" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="24405:24436" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="24467:24743" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="25604:25694" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="25832:25922" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26073:26140" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26309:26396" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26528:26615" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26760:26824" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="27438:27527" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27683:27772" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27941:28007" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28188:28275" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28425:28512" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28675:28739" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="30509:30541" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30620:30652" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30724:30754" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30831:30861" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30898:30931" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="31176:31210" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="31369:31438" ph="INSERT INTO `report_count`... " />
+            <marker date="1526023548685" expanded="true" signature="31718:31784" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="32010:32084" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="32373:32484" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="32545:32671" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="32731:32864" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33064:33180" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33241:33372" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="33432:33570" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33740:33856" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33913:34044" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34100:34238" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="34427:34548" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="34601:34733" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34785:34923" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="35051:35174" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="35223:35355" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="35403:35541" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="36070:36102" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="36468:36518" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="36778:36890" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="36943:37052" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37213:37331" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37384:37506" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37633:37750" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37799:37920" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="40384:40492" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="40521:40662" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="41659:41765" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="41796:41923" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="43469:43577" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="43607:43736" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="44970:45076" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45106:45233" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45958:46059" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="46088:46222" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47176:47265" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47296:47406" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="48899:49000" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="49030:49152" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50368:50457" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50487:50597" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="51302:51500" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="51530:51760" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="53816:54014" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="54044:54274" ph="SELECT `Inte... kocela_transactions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#301#342#0#PHP" expanded="true" />
+            <marker date="1526023548685" expanded="true" signature="550:595" ph="SELECT SUM(t... report_count" />
+            <marker date="1526023548685" expanded="true" signature="694:722" ph="SELECT * FRO... report_count" />
+            <marker date="1526023548685" expanded="true" signature="3355:3840" ph="INSERT INTO `mpesa_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="6287:6637" ph="INSERT INTO `kocela_transactions`... " />
+            <marker date="1526023548685" expanded="true" signature="10178:10820" ph="INSERT INTO `core_banking_mpesa`... " />
+            <marker date="1526023548685" expanded="true" signature="12985:13204" ph="INSERT INTO `atm_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="16697:17337" ph="INSERT INTO `core_banking_atm`... " />
+            <marker date="1526023548685" expanded="true" signature="18020:18054" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="18085:18773" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="19641:19674" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="19705:20310" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="21176:21211" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="21242:21849" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="22714:22746" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="22777:23543" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="24405:24436" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="24467:24743" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="25604:25694" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="25832:25922" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26073:26140" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26309:26396" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26528:26615" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26760:26824" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="27438:27527" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27683:27772" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27941:28007" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28188:28275" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28425:28512" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28675:28739" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="30509:30541" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30620:30652" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30724:30754" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30831:30861" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30898:30931" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="31176:31210" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="31369:31438" ph="INSERT INTO `report_count`... " />
+            <marker date="1526023548685" expanded="true" signature="31718:31784" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="32010:32084" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="32373:32484" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="32545:32671" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="32731:32864" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33064:33180" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33241:33372" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="33432:33570" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33740:33856" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33913:34044" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34100:34238" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="34427:34548" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="34601:34733" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34785:34923" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="35051:35174" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="35223:35355" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="35403:35541" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="36070:36102" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="36468:36518" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="36778:36890" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="36943:37052" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37213:37331" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37384:37506" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37633:37750" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37799:37920" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="40384:40492" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="40521:40662" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="41659:41765" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="41796:41923" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="43469:43577" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="43607:43736" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="44970:45076" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45106:45233" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45958:46059" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="46088:46222" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47176:47265" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47296:47406" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="48899:49000" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="49030:49152" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50368:50457" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50487:50597" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="51302:51500" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="51530:51760" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="53816:54014" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="54044:54274" ph="SELECT `Inte... kocela_transactions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/DBConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/fpdf/fpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5219">
+          <caret line="313" column="34" lean-forward="false" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15385">
+          <caret line="905" column="9" lean-forward="false" selection-start-line="905" selection-start-column="9" selection-end-line="905" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="1334" column="0" lean-forward="false" selection-start-line="1334" selection-start-column="0" selection-end-line="1334" selection-end-column="0" />
+          <folding>
+            <element signature="e#510#1181#0#PHP" expanded="false" />
+            <element signature="e#792#1177#0#PHP" expanded="false" />
+            <element signature="e#813#915#0#PHP" expanded="false" />
+            <element signature="e#1184#4403#0#PHP" expanded="false" />
+            <element signature="e#1430#4400#0#PHP" expanded="false" />
+            <element signature="e#1962#3926#0#PHP" expanded="false" />
+            <element signature="e#2100#3916#0#PHP" expanded="false" />
+            <element signature="e#4177#4400#0#PHP" expanded="false" />
+            <element signature="e#4404#7200#0#PHP" expanded="false" />
+            <element signature="e#4642#7197#0#PHP" expanded="false" />
+            <element signature="e#5174#6723#0#PHP" expanded="false" />
+            <element signature="e#5312#6713#0#PHP" expanded="false" />
+            <element signature="e#6974#7197#0#PHP" expanded="false" />
+            <element signature="e#7201#11463#0#PHP" expanded="false" />
+            <element signature="e#7449#11460#0#PHP" expanded="false" />
+            <element signature="e#7981#10986#0#PHP" expanded="false" />
+            <element signature="e#8119#10976#0#PHP" expanded="false" />
+            <element signature="e#10018#10961#0#PHP" expanded="false" />
+            <element signature="e#10079#10942#0#PHP" expanded="false" />
+            <element signature="e#10127#10920#0#PHP" expanded="false" />
+            <element signature="e#11237#11460#0#PHP" expanded="false" />
+            <element signature="e#11465#13767#0#PHP" expanded="false" />
+            <element signature="e#11700#13764#0#PHP" expanded="false" />
+            <element signature="e#12232#13290#0#PHP" expanded="false" />
+            <element signature="e#12370#13280#0#PHP" expanded="false" />
+            <element signature="e#13541#13764#0#PHP" expanded="false" />
+            <element signature="e#13768#17900#0#PHP" expanded="false" />
+            <element signature="e#14014#17897#0#PHP" expanded="false" />
+            <element signature="e#14546#17423#0#PHP" expanded="false" />
+            <element signature="e#14684#17413#0#PHP" expanded="false" />
+            <element signature="e#17674#17897#0#PHP" expanded="false" />
+            <element signature="e#17902#19523#0#PHP" expanded="false" />
+            <element signature="e#17984#18783#0#PHP" expanded="false" />
+            <element signature="e#18063#18783#0#PHP" expanded="false" />
+            <element signature="e#18838#19520#0#PHP" expanded="false" />
+            <element signature="e#18874#18976#0#PHP" expanded="false" />
+            <element signature="e#19250#19520#0#PHP" expanded="false" />
+            <element signature="e#19524#21057#0#PHP" expanded="false" />
+            <element signature="e#19605#20319#0#PHP" expanded="false" />
+            <element signature="e#19683#20319#0#PHP" expanded="false" />
+            <element signature="e#20374#21054#0#PHP" expanded="false" />
+            <element signature="e#20410#20512#0#PHP" expanded="false" />
+            <element signature="e#20784#21054#0#PHP" expanded="false" />
+            <element signature="e#21058#22596#0#PHP" expanded="false" />
+            <element signature="e#21140#21858#0#PHP" expanded="false" />
+            <element signature="e#21220#21858#0#PHP" expanded="false" />
+            <element signature="e#21913#22593#0#PHP" expanded="false" />
+            <element signature="e#21949#22051#0#PHP" expanded="false" />
+            <element signature="e#22323#22593#0#PHP" expanded="false" />
+            <element signature="e#22598#24289#0#PHP" expanded="false" />
+            <element signature="e#22678#23551#0#PHP" expanded="false" />
+            <element signature="e#22755#23551#0#PHP" expanded="false" />
+            <element signature="e#23606#24286#0#PHP" expanded="false" />
+            <element signature="e#23642#23744#0#PHP" expanded="false" />
+            <element signature="e#24016#24286#0#PHP" expanded="false" />
+            <element signature="e#24290#25489#0#PHP" expanded="false" />
+            <element signature="e#24369#24751#0#PHP" expanded="false" />
+            <element signature="e#24445#24751#0#PHP" expanded="false" />
+            <element signature="e#24806#25486#0#PHP" expanded="false" />
+            <element signature="e#24842#24944#0#PHP" expanded="false" />
+            <element signature="e#25216#25486#0#PHP" expanded="false" />
+            <element signature="e#25491#30437#0#PHP" expanded="false" />
+            <element signature="e#29477#30357#0#PHP" expanded="false" />
+            <element signature="e#30438#31096#0#PHP" expanded="false" />
+            <element signature="n#reconcileMpesa#0;n#!!top" expanded="false" />
+            <element signature="e#31227#35991#0#PHP" expanded="false" />
+            <element signature="e#31414#35532#0#PHP" expanded="false" />
+            <element signature="e#31818#35521#0#PHP" expanded="false" />
+            <element signature="e#31921#34908#0#PHP" expanded="false" />
+            <element signature="e#32137#34227#0#PHP" expanded="false" />
+            <element signature="e#32258#33563#0#PHP" expanded="false" />
+            <element signature="e#32857#33563#0#PHP" expanded="false" />
+            <element signature="e#33586#34227#0#PHP" expanded="false" />
+            <element signature="e#34247#34908#0#PHP" expanded="false" />
+            <element signature="e#34923#35521#0#PHP" expanded="false" />
+            <element signature="e#35760#35991#0#PHP" expanded="false" />
+            <element signature="n#reconcileATM#0;n#!!top" expanded="false" />
+            <element signature="e#36119#38367#0#PHP" expanded="false" />
+            <element signature="e#36154#37910#0#PHP" expanded="false" />
+            <element signature="e#36560#37899#0#PHP" expanded="false" />
+            <element signature="e#36672#37490#0#PHP" expanded="false" />
+            <element signature="e#37038#37490#0#PHP" expanded="false" />
+            <element signature="e#37505#37899#0#PHP" expanded="false" />
+            <element signature="e#38137#38367#0#PHP" expanded="false" />
+            <element signature="e#38372#38430#0#PHP" expanded="false" />
+            <element signature="e#38431#38484#0#PHP" expanded="false" />
+            <element signature="e#38488#38703#0#PHP" expanded="false" />
+            <element signature="e#38603#38701#0#PHP" expanded="false" />
+            <element signature="e#38668#38701#0#PHP" expanded="false" />
+            <element signature="n#removeSpaces#0;n#!!top" expanded="false" />
+            <element signature="n#areEqual#0;n#!!top" expanded="false" />
+            <element signature="e#39210#39259#0#PHP" expanded="false" />
+            <element signature="e#39422#39488#0#PHP" expanded="false" />
+            <element signature="n#PDF#0;n#!!top" expanded="false" />
+            <element signature="n#Header#0;n#PDF#0;n#!!top" expanded="false" />
+            <element signature="n#Footer#0;n#PDF#0;n#!!top" expanded="false" />
+            <element signature="e#40221#41499#0#PHP" expanded="false" />
+            <element signature="e#40307#40631#0#PHP" expanded="false" />
+            <element signature="e#40460#40631#0#PHP" expanded="false" />
+            <element signature="e#40697#40894#0#PHP" expanded="false" />
+            <element signature="e#40921#41100#0#PHP" expanded="false" />
+            <element signature="e#41244#41345#0#PHP" expanded="false" />
+            <element signature="e#41350#41476#0#PHP" expanded="false" />
+            <element signature="e#41500#42767#0#PHP" expanded="false" />
+            <element signature="e#41584#41902#0#PHP" expanded="false" />
+            <element signature="e#41735#41902#0#PHP" expanded="false" />
+            <element signature="e#41968#42165#0#PHP" expanded="false" />
+            <element signature="e#42192#42368#0#PHP" expanded="false" />
+            <element signature="e#42512#42613#0#PHP" expanded="false" />
+            <element signature="e#42618#42744#0#PHP" expanded="false" />
+            <element signature="e#42769#44270#0#PHP" expanded="false" />
+            <element signature="e#43394#43715#0#PHP" expanded="false" />
+            <element signature="e#43546#43715#0#PHP" expanded="false" />
+            <element signature="e#43781#44191#0#PHP" expanded="false" />
+            <element signature="e#44271#45767#0#PHP" expanded="false" />
+            <element signature="e#44894#45211#0#PHP" expanded="false" />
+            <element signature="e#45044#45211#0#PHP" expanded="false" />
+            <element signature="e#45278#45688#0#PHP" expanded="false" />
+            <element signature="e#45789#47007#0#PHP" expanded="false" />
+            <element signature="e#45881#46189#0#PHP" expanded="false" />
+            <element signature="e#46025#46189#0#PHP" expanded="false" />
+            <element signature="e#46255#46445#0#PHP" expanded="false" />
+            <element signature="e#46752#46853#0#PHP" expanded="false" />
+            <element signature="e#46858#46984#0#PHP" expanded="false" />
+            <element signature="e#47008#48197#0#PHP" expanded="false" />
+            <element signature="e#47099#47383#0#PHP" expanded="false" />
+            <element signature="e#47233#47383#0#PHP" expanded="false" />
+            <element signature="e#47449#47627#0#PHP" expanded="false" />
+            <element signature="e#47654#47798#0#PHP" expanded="false" />
+            <element signature="e#47942#48043#0#PHP" expanded="false" />
+            <element signature="e#48048#48174#0#PHP" expanded="false" />
+            <element signature="e#48199#49679#0#PHP" expanded="false" />
+            <element signature="e#48822#49129#0#PHP" expanded="false" />
+            <element signature="e#48967#49129#0#PHP" expanded="false" />
+            <element signature="e#49195#49600#0#PHP" expanded="false" />
+            <element signature="e#49680#51115#0#PHP" expanded="false" />
+            <element signature="e#50291#50574#0#PHP" expanded="false" />
+            <element signature="e#50424#50574#0#PHP" expanded="false" />
+            <element signature="e#50641#51036#0#PHP" expanded="false" />
+            <element signature="e#51135#52833#0#PHP" expanded="false" />
+            <element signature="n#toInt#0;n#!!top" expanded="false" />
+            <element signature="n#diff#0;n#!!top" expanded="false" />
+            <element signature="n#formatcurrency#0;n#!!top" expanded="false" />
+            <marker date="1525430749650" expanded="false" signature="550:595" ph="SELECT SUM(t... report_count" />
+            <marker date="1525430749650" expanded="false" signature="694:722" ph="SELECT * FRO... report_count" />
+            <marker date="1525430749650" expanded="false" signature="3355:3840" ph="INSERT INTO `mpesa_transaction`... " />
+            <marker date="1525430749650" expanded="false" signature="6287:6637" ph="INSERT INTO `kocela_transactions`... " />
+            <marker date="1525430749650" expanded="false" signature="10178:10820" ph="INSERT INTO `core_banking_mpesa`... " />
+            <marker date="1525430749650" expanded="false" signature="12985:13204" ph="INSERT INTO `atm_transaction`... " />
+            <marker date="1525430749650" expanded="false" signature="16697:17337" ph="INSERT INTO `core_banking_atm`... " />
+            <marker date="1525430749650" expanded="false" signature="18020:18054" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1525430749650" expanded="false" signature="18085:18773" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1525430749650" expanded="false" signature="19641:19674" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1525430749650" expanded="false" signature="19705:20310" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1525430749650" expanded="false" signature="21176:21211" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1525430749650" expanded="false" signature="21242:21849" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1525430749650" expanded="false" signature="22714:22746" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1525430749650" expanded="false" signature="22777:23543" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1525430749650" expanded="false" signature="24405:24436" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1525430749650" expanded="false" signature="24467:24743" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1525430749650" expanded="false" signature="25604:25694" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1525430749650" expanded="false" signature="25832:25922" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1525430749650" expanded="false" signature="26073:26140" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1525430749650" expanded="false" signature="26309:26396" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1525430749650" expanded="false" signature="26528:26615" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1525430749650" expanded="false" signature="26760:26824" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1525430749650" expanded="false" signature="27438:27527" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1525430749650" expanded="false" signature="27683:27772" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1525430749650" expanded="false" signature="27941:28007" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1525430749650" expanded="false" signature="28188:28275" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1525430749650" expanded="false" signature="28425:28512" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1525430749650" expanded="false" signature="28675:28739" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1525430749650" expanded="false" signature="30562:30594" ph="DELETE FROM " />
+            <marker date="1525430749650" expanded="false" signature="30665:30697" ph="DELETE FROM " />
+            <marker date="1525430749650" expanded="false" signature="30765:30795" ph="DELETE FROM " />
+            <marker date="1525430749650" expanded="false" signature="30864:30894" ph="DELETE FROM " />
+            <marker date="1525430749650" expanded="false" signature="31139:31173" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1525430749650" expanded="false" signature="31332:31401" ph="INSERT INTO `report_count`... " />
+            <marker date="1525430749650" expanded="false" signature="31681:31747" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1525430749650" expanded="false" signature="31973:32047" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1525430749650" expanded="false" signature="32336:32447" ph="UPDATE `core... " />
+            <marker date="1525430749650" expanded="false" signature="32508:32634" ph="UPDATE `mpes... " />
+            <marker date="1525430749650" expanded="false" signature="32694:32827" ph="UPDATE `koce... " />
+            <marker date="1525430749650" expanded="false" signature="33027:33143" ph="UPDATE `core... " />
+            <marker date="1525430749650" expanded="false" signature="33204:33335" ph="UPDATE `mpes... " />
+            <marker date="1525430749650" expanded="false" signature="33395:33533" ph="UPDATE `koce... " />
+            <marker date="1525430749650" expanded="false" signature="33703:33819" ph="UPDATE `core... " />
+            <marker date="1525430749650" expanded="false" signature="33876:34007" ph="UPDATE `mpes... " />
+            <marker date="1525430749650" expanded="false" signature="34063:34201" ph="UPDATE `koce... " />
+            <marker date="1525430749650" expanded="false" signature="34390:34511" ph="UPDATE `core... " />
+            <marker date="1525430749650" expanded="false" signature="34564:34696" ph="UPDATE `mpes... " />
+            <marker date="1525430749650" expanded="false" signature="34748:34886" ph="UPDATE `koce... " />
+            <marker date="1525430749650" expanded="false" signature="35014:35137" ph="UPDATE `core... " />
+            <marker date="1525430749650" expanded="false" signature="35186:35318" ph="UPDATE `mpes... " />
+            <marker date="1525430749650" expanded="false" signature="35366:35504" ph="UPDATE `koce... " />
+            <marker date="1525430749650" expanded="false" signature="36033:36065" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1525430749650" expanded="false" signature="36431:36481" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1525430749650" expanded="false" signature="36741:36853" ph="UPDATE `core... " />
+            <marker date="1525430749650" expanded="false" signature="36906:37015" ph="UPDATE `atm_... " />
+            <marker date="1525430749650" expanded="false" signature="37175:37293" ph="UPDATE `core... " />
+            <marker date="1525430749650" expanded="false" signature="37346:37468" ph="UPDATE `atm_... " />
+            <marker date="1525430749650" expanded="false" signature="37595:37712" ph="UPDATE `core... " />
+            <marker date="1525430749650" expanded="false" signature="37761:37882" ph="UPDATE `atm_... " />
+            <marker date="1525430749650" expanded="false" signature="40344:40452" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1525430749650" expanded="false" signature="40481:40622" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1525430749650" expanded="false" signature="41619:41725" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1525430749650" expanded="false" signature="41756:41883" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1525430749650" expanded="false" signature="43429:43537" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1525430749650" expanded="false" signature="43567:43696" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1525430749650" expanded="false" signature="44929:45035" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1525430749650" expanded="false" signature="45065:45192" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1525430749650" expanded="false" signature="45916:46017" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1525430749650" expanded="false" signature="46046:46180" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1525430749650" expanded="false" signature="47134:47223" ph="SELECT `card... atm_transaction" />
+            <marker date="1525430749650" expanded="false" signature="47254:47364" ph="SELECT `card... atm_transaction" />
+            <marker date="1525430749650" expanded="false" signature="48857:48958" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1525430749650" expanded="false" signature="48988:49110" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1525430749650" expanded="false" signature="50326:50415" ph="SELECT `card... atm_transaction" />
+            <marker date="1525430749650" expanded="false" signature="50445:50555" ph="SELECT `card... atm_transaction" />
+            <marker date="1525430749650" expanded="true" signature="51260:51458" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1525430749650" expanded="true" signature="51488:51718" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1525430749650" expanded="true" signature="53775:53973" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1525430749650" expanded="true" signature="54003:54233" ph="SELECT `Inte... kocela_transactions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="439" column="1" lean-forward="true" selection-start-line="439" selection-start-column="1" selection-end-line="439" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#301#342#0#PHP" expanded="true" />
+            <marker date="1526023548685" expanded="true" signature="550:595" ph="SELECT SUM(t... report_count" />
+            <marker date="1526023548685" expanded="true" signature="694:722" ph="SELECT * FRO... report_count" />
+            <marker date="1526023548685" expanded="true" signature="3355:3840" ph="INSERT INTO `mpesa_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="6287:6637" ph="INSERT INTO `kocela_transactions`... " />
+            <marker date="1526023548685" expanded="true" signature="10178:10820" ph="INSERT INTO `core_banking_mpesa`... " />
+            <marker date="1526023548685" expanded="true" signature="12985:13204" ph="INSERT INTO `atm_transaction`... " />
+            <marker date="1526023548685" expanded="true" signature="16697:17337" ph="INSERT INTO `core_banking_atm`... " />
+            <marker date="1526023548685" expanded="true" signature="18020:18054" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="18085:18773" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="19641:19674" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="19705:20310" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="21176:21211" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="21242:21849" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="22714:22746" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="22777:23543" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="24405:24436" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="24467:24743" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="25604:25694" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="25832:25922" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26073:26140" ph="SELECT SUM(C... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="26309:26396" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26528:26615" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="26760:26824" ph="SELECT SUM(D... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="27438:27527" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27683:27772" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="27941:28007" ph="SELECT SUM(P... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28188:28275" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28425:28512" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="28675:28739" ph="SELECT SUM(a... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="30509:30541" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30620:30652" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30724:30754" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30831:30861" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="30898:30931" ph="DELETE FROM " />
+            <marker date="1526023548685" expanded="true" signature="31176:31210" ph="SELECT * FRO... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="31369:31438" ph="INSERT INTO `report_count`... " />
+            <marker date="1526023548685" expanded="true" signature="31718:31784" ph="SELECT * FRO... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="32010:32084" ph="SELECT * FRO... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="32373:32484" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="32545:32671" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="32731:32864" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33064:33180" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33241:33372" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="33432:33570" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="33740:33856" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="33913:34044" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34100:34238" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="34427:34548" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="34601:34733" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="34785:34923" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="35051:35174" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="35223:35355" ph="UPDATE `mpes... " />
+            <marker date="1526023548685" expanded="true" signature="35403:35541" ph="UPDATE `koce... " />
+            <marker date="1526023548685" expanded="true" signature="36070:36102" ph="SELECT * FRO... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="36468:36518" ph="SELECT * FRO... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="36778:36890" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="36943:37052" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37213:37331" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37384:37506" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="37633:37750" ph="UPDATE `core... " />
+            <marker date="1526023548685" expanded="true" signature="37799:37920" ph="UPDATE `atm_... " />
+            <marker date="1526023548685" expanded="true" signature="40384:40492" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="40521:40662" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="41659:41765" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="41796:41923" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="43469:43577" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="43607:43736" ph="SELECT `Tran... core_banking_mpesa" />
+            <marker date="1526023548685" expanded="true" signature="44970:45076" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45106:45233" ph="SELECT `Tran... core_banking_atm" />
+            <marker date="1526023548685" expanded="true" signature="45958:46059" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="46088:46222" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47176:47265" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="47296:47406" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="48899:49000" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="49030:49152" ph="SELECT `Comp... mpesa_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50368:50457" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="50487:50597" ph="SELECT `card... atm_transaction" />
+            <marker date="1526023548685" expanded="true" signature="51302:51500" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="51530:51760" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="53816:54014" ph="SELECT `Inte... kocela_transactions" />
+            <marker date="1526023548685" expanded="true" signature="54044:54274" ph="SELECT `Inte... kocela_transactions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
